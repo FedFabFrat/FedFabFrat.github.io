@@ -23,5 +23,5 @@ navbar:
 output:
   html_document:
     highlight: textmate
-    lib_dir: site/site_libs
+    lib_dir: site_libs
     self_contained: no
