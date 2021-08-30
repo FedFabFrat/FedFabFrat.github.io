@@ -1,1 +1,1 @@
-# personal_website
+# Repository containing the files about my personal website!
