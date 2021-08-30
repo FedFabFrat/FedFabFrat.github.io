@@ -10,5 +10,5 @@ navbar:
       icon: fa-newspaper
       href: research.html
     - text: "Teaching"
-      icon: fa-graduation
+      icon: fa-university
       href: teaching.html
