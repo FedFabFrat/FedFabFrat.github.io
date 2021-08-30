@@ -12,3 +12,13 @@ navbar:
     - text: "Teaching"
       icon: fa-university
       href: teaching.html
+  right:
+    - icon: fa-envelope-o fa
+      href: mailto:frattinf@tcd.ie
+    - icon: fa-github fa
+      href: https://github.com/FedFabFrat
+    - icon: fa-twitter fa
+      href: https://twitter.com/FedFabFrat
+output:
+  html_document:
+    highlight: textmate
