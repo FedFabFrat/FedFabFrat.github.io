@@ -1,4 +1,5 @@
 name: Federico Fabio Frattini
+output_dir: "."
 navbar:
   title:
   type: inverse
@@ -22,5 +23,5 @@ navbar:
 output:
   html_document:
     highlight: textmate
-    lib_dir: site_libs
+    lib_dir: site/site_libs
     self_contained: no
