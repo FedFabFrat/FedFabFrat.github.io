@@ -5,13 +5,7 @@ title: <div align="center">Federico Fabio Frattini
 
 ****
 
-<div align="left">
-
-![](triss_pic.jpg){width=40%}
-
-<br />
-
-<div align="left">
+<div style="float:left; width:40%;">
 
 ## Welcome to my website!
 
@@ -37,4 +31,14 @@ You can find my **CV** <a href="CV_vphd3.pdf#" class="download" title="Download 
 
 * Phone number: +353 (87) 2172669
 
+</div>
 
+<div style="float:left; width:40%; margin-left:100px;">
+
+![](triss_pic.jpg){width=90%}
+
+<br />
+
+![](logo_irc_cropped.jpg){width=90%}
+
+</div>
