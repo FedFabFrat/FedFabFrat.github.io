@@ -4,7 +4,7 @@ title: <div align="center">Federico Fabio Frattini
 
 
 ****
-<div id=”content-desktop”>
+<div id=content-desktop>
 
 <div style="float:left; width:40%;">
 
@@ -47,8 +47,9 @@ You can find my **CV** <a href="CV_vphd3.pdf#" class="download" title="Download 
 </div>
 
 
-<div id=”content-mobile”>
+<div id=content-mobile>
 
+ 
 ## Welcome to my website!
 
 <br />
@@ -73,6 +74,12 @@ You can find my **CV** <a href="CV_vphd3.pdf#" class="download" title="Download 
 
 * Phone number: +353 (87) 2172669
 
+<br />
+
+<br />
+
+<div align="center">
+
 ![](triss_pic.jpg){width=80%}
 
 <br />
@@ -81,3 +88,4 @@ You can find my **CV** <a href="CV_vphd3.pdf#" class="download" title="Download 
 
 </div>
 
+</div>
