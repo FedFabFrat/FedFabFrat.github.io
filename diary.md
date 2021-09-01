@@ -5,3 +5,7 @@
 ***
 
 31/08. version 1.0.1 online. Managed to divide home page in two sides and then i have inclued the IRC logo
+
+***
+
+01/09. version 1.0.2. Introduce different visualization for desktops and mobiles.
