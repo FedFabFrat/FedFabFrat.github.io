@@ -4,6 +4,7 @@ title: <div align="center">Federico Fabio Frattini
 
 
 ****
+<div id=”content-desktop”>
 
 <div style="float:left; width:40%;">
 
@@ -42,3 +43,41 @@ You can find my **CV** <a href="CV_vphd3.pdf#" class="download" title="Download 
 ![](logo_irc_cropped.jpg){width=90%}
 
 </div>
+
+</div>
+
+
+<div id=”content-mobile”>
+
+## Welcome to my website!
+
+<br />
+
+I am a PhD candidate at [Trinity College Dublin](https://www.tcd.ie/Economics/), where I am funded by the [Irish Research Council](https://research.ie/).
+
+<br />
+
+My research interests revolve around Political Economics, Economics of Crime and Microeconometrics.
+
+<br />
+
+You can find my **CV** <a href="CV_vphd3.pdf#" class="download" title="Download CV as PDF">here</a>		
+
+<br />
+
+**Contact information:**
+
+* Email: [frattinf@tcd.ie](mailto:frattinf@tcd.ie)
+
+* Twitter: [FedFabFrat](https://twitter.com/FedFabFrat)
+
+* Phone number: +353 (87) 2172669
+
+![](triss_pic.jpg){width=90%}
+
+<br />
+
+![](logo_irc_cropped.jpg){width=90%}
+
+</div>
+
