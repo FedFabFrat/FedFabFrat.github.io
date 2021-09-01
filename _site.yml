@@ -2,7 +2,7 @@ name: Federico Fabio Frattini
 output_dir: "."
 navbar:
   title:
-  type: inverse
+  type: default
   left:
     - text: "Home"
       icon: fa-home
