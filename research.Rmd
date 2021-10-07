@@ -12,20 +12,26 @@ title: <div align="center">Research
 <br />
 
 
-**Simultaneous Elections and Voting Determinants: Empirical Evidence from Italy**
+**Simultaneous elections and electoral outcomes: evidence from Italy**
 
 *Abstract*: This paper investigates the impact that the simultaneity of national and local elections has on the local electoral stage. Specifically, I focus on how this simultaneity impacts the local civic engagement, the political participation, the political competition and the electoral results. Methodologically, I employ a difference-in-differences design that exploits the staggered nature of the local elections in Italy, where some municipalities experience the simultaneity, while the rest do not. I find that the simultaneity affects the voters' participation positively, as well as the political participation and competition. Then, I find that the national success achieved by the right coalition spills over at the local level, both in terms of the votes share and of the ruling of the local government. Lastly, I document the existence of a split-ticket voting behaviour. Exploiting the simultaneity as a sample restriction, I find that a relevant percentage of municipalities engage in split-ticket voting behaviour on the local-national dimension. I find support for the divided government hypothesis as a possible mechanism.
 
 <br />
 
-**Organised Crime, Public Procurement and Firms**, *with Decio Coviello and Nicola Mastrorocco*
+**Organised crime, public procurement and firms**, *with [Decio Coviello](https://tintin.hec.ca/pages/decio.coviello/home.html) and [Nicola Mastrorocco](https://nicolamastrorocco.com/)*
 
 *Abstract*: What is the impact of criminal organisations on the legal economy? This paper investigates this question by studying the effect of the collusion between organised crime and local politicians in the South of Italy. In order to capture the presence of organised crime, we exploit the staggered enforcement of a national law allowing the dissolution of a municipal government upon evidence of  collusion  between  elected  officials and the mafia. We then measure the consequences of this collusion by using unique data on public procurements and firms. Difference-in-differences estimates reveal that infiltrated governments present less bidding firms, lower average rebates and are more likely to have non-public negotiations. Results are heterogeneous across procurement macro-categories and political party colours. Moreover, firms winning a procurement contract in a captured municipality exhibit an increase in profits and labour, a  reduction in capital, leaving unaffected total factor productivity.
 
 <br />
 
 
-**Organised Crime and Human Capital, Within-City Evidence from Italy**
+**Organised crime and human capital, within-city evidence from Italy** 
+
+*Abstract*: *Coming soon!*
+
+<br />
+
+**Social capital and the power of mafia relationship** *with [Francesca Calamunci](https://sites.google.com/view/francescacalamunci/home?authuser=0)*
 
 *Abstract*: *Coming soon!*
 
@@ -39,9 +45,9 @@ title: <div align="center">Research
 <br />
 
 
-**Setting an example: political leaders’ cues and health behavior in the early stages of the COVID-19 pandemic in Mexico**, *with Bruno Morando and Luciano Ayala*
+**Setting an example: political leaders’ cues and health behavior in the early stages of the COVID-19 pandemic in Mexico**, *forthcoming __Latin American Policy__*, *with [Bruno Morando](https://sites.google.com/view/brunomorando/home) and [Luciano Ayala Cantu](https://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1)*
 
-*__Forthcoming, Latin American Policy__*
+
 
 *Abstract*: How do political leaders’ cues affect citizen’ behavior regarding a new and complex issue? We address this question in the context of the early stages of the Covid-19 pandemic in Mexico, using electoral outcomes and municipal-level mobility data from Facebook’s Movement Range Maps. In March 2020, Mexico’s president constantly downplayed the severity of the coming health crisis, by continuing his political rallies throughout the country, and encouraging people to leave their homes. Using an event-study analysis, we find that, after the first press conference where his government declared mobility restrictions were not
 yet necessary, on March 13 th, citizens’ geographic mobility in pro-government
