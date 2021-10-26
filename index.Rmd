@@ -12,7 +12,7 @@ title: <div align="center">Federico Fabio Frattini
 
 <br />
 
-I am a PhD candidate at [Trinity College Dublin](https://www.tcd.ie/Economics/), where I am funded by the [Irish Research Council](https://research.ie/).
+I am a PhD candidate at <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a>, where I am funded by the <a href="https://research.ie/" target="_blank">Irish Research Council</a>.
 
 <br />
 
@@ -28,7 +28,7 @@ You can find my **CV** <a href="CV_vphd3.pdf#" class="download" title="Download 
 
 * Email: [frattinf@tcd.ie](mailto:frattinf@tcd.ie)
 
-* Twitter: [FedFabFrat](https://twitter.com/FedFabFrat)
+* Twitter: <a href="https://twitter.com/FedFabFrat" target="_blank">FedFabFrat</a>
 
 * Phone number: +353 (87) 2172669
 
@@ -54,7 +54,7 @@ You can find my **CV** <a href="CV_vphd3.pdf#" class="download" title="Download 
 
 <br />
 
-I am a PhD candidate at [Trinity College Dublin](https://www.tcd.ie/Economics/), where I am funded by the [Irish Research Council](https://research.ie/).
+I am a PhD candidate at <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a>, where I am funded by the <a href="https://research.ie/" target="_blank">Irish Research Council</a>.
 
 <br />
 
@@ -70,7 +70,7 @@ You can find my **CV** <a href="CV_vphd3.pdf#" class="download" title="Download 
 
 * Email: [frattinf@tcd.ie](mailto:frattinf@tcd.ie)
 
-* Twitter: [FedFabFrat](https://twitter.com/FedFabFrat)
+* Twitter: <a href="https://twitter.com/FedFabFrat" target="_blank">FedFabFrat</a>
 
 * Phone number: +353 (87) 2172669
 

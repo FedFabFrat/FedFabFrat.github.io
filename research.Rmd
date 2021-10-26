@@ -18,7 +18,7 @@ title: <div align="center">Research
 
 <br />
 
-**Organised crime, public procurement and firms**, *with [Decio Coviello](https://tintin.hec.ca/pages/decio.coviello/home.html) and [Nicola Mastrorocco](https://nicolamastrorocco.com/)*
+**Organised crime, public procurement and firms**, *with* <a href="https://tintin.hec.ca/pages/decio.coviello/home.html" target="_blank">*Decio Coviello*</a> *and* <a href="https://nicolamastrorocco.com/" target="_blank">*Nicola Mastrorocco*</a>
 
 *Abstract*: What is the impact of criminal organisations on the legal economy? This paper investigates this question by studying the effect of the collusion between organised crime and local politicians in the South of Italy. In order to capture the presence of organised crime, we exploit the staggered enforcement of a national law allowing the dissolution of a municipal government upon evidence of  collusion  between  elected  officials and the mafia. We then measure the consequences of this collusion by using unique data on public procurements and firms. Difference-in-differences estimates reveal that infiltrated governments present less bidding firms, lower average rebates and are more likely to have non-public negotiations. Results are heterogeneous across procurement macro-categories and political party colours. Moreover, firms winning a procurement contract in a captured municipality exhibit an increase in profits and labour, a  reduction in capital, leaving unaffected total factor productivity.
 
@@ -31,7 +31,7 @@ title: <div align="center">Research
 
 <br />
 
-**Social capital and the power of mafia** *with [Francesca Calamunci](https://sites.google.com/view/francescacalamunci/home?authuser=0)*
+**Social capital and the power of mafia** *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci Mastrorocco*</a>
 
 *Abstract*: *Coming soon!*
 
@@ -45,8 +45,8 @@ title: <div align="center">Research
 <br />
 
 
-**Setting an example: political leaders’ cues and health behavior in the early stages of the COVID-19 pandemic in Mexico**, *__[Latin American Policy](https://onlinelibrary.wiley.com/doi/10.1111/lamp.12223)__ (2021) *, *with [Bruno Morando](https://sites.google.com/view/brunomorando/home) and [Luciano Ayala Cantu](https://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1)*
-<a href="www.google.com" target="_blank">New Tab</a>
+**Setting an example: political leaders’ cues and health behavior in the early stages of the COVID-19 pandemic in Mexico**, <a href="https://onlinelibrary.wiley.com/doi/10.1111/lamp.12223" target="_blank">*__Latin American Policy__*</a> *(2021)*, *with* <a href="https://sites.google.com/view/brunomorando/home" target="_blank">*Bruno Morando*</a> *and* <a href="://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1" target="_blank">*Luciano Ayala Cantu*</a>
+
 
 
 
