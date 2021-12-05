@@ -36,11 +36,11 @@ You can find my **CV** <a href="CV_vphd3.pdf#" class="download" target="_blank" 
 
 <div style="float:right; width:50%; margin-left:80px;">
 
-![](IMG_7255.jpg){width=90%}
+![](IMG_7255.jpg){width=70%}
 
 <br />
 
-![](logo_irc_cropped.jpg){width=90%}
+![](logo_irc_cropped.jpg){width=70%}
 
 </div>
 
