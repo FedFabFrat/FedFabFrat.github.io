@@ -5,7 +5,7 @@ title: <div align="center">Teaching
 
 ****
 
-<div align="left">
+<div align="justify">
 
 **<a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/microeconomics-1/" target="_blank">*Introduction to Microeconomics*</a>**, *TCD MSc, Fall 2021, Teaching Assistant. Lecturer:  Prof. Alejandra Ramos*
 
