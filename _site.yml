@@ -19,7 +19,7 @@ navbar:
     - icon: fa-github fa
       href: https://github.com/FedFabFrat
     - icon: fa-twitter fa
-      href: twitter_redirect.html
+      href: https://twitter.com/FedFabFrat
 output:
   html_document:
     highlight: textmate
