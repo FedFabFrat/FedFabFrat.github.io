@@ -6,7 +6,7 @@ title: <div align="center">Federico Fabio Frattini
 ****
 <div id=content-desktop>
 
-<div style="float:left; width:40%;" align="justify">
+<div style="float:left; width:60%;" align="justify">
 
 ## Welcome to my website!
 
@@ -30,7 +30,7 @@ This is my <a href="cv_update.pdf#" class="download" target="_blank" title="Down
 
 </div>
 
-<div style="float:right; width:50%; margin-left:80px;">
+<div style="float:right; width:40%; margin-left:20px; margin-right:-105px;">
 
 ![](IMG_7255.jpg){width=70%}
 
