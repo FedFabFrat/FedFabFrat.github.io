@@ -27,4 +27,4 @@ title: <div align="center">Teaching
 
 #### Guest Lecturer
 
-**<a href="https://www.maynoothuniversity.ie/faculty-social-sciences/news/big-data-and-machine-learning-workshop-dr-bruno-morando-department-economics" target="_blank">*Big Data and Machine Learning Workshop*</a>**, *Maynooth University (MSc,PhD), Spring 2022. Lecturer:  Dr. Bruno Morando*
+**<a href="https://www.maynoothuniversity.ie/faculty-social-sciences/news/big-data-and-machine-learning-workshop-dr-bruno-morando-department-economics" target="_blank">*Big Data and Machine Learning Workshop*</a>**, *Maynooth University (MSc, PhD), Spring 2022. Lecturer:  Dr. Bruno Morando*
