@@ -18,22 +18,19 @@ title: <div align="center">Research
 
 <br />
 
-**Organised crime, public procurement and firms**, *with* <a href="https://tintin.hec.ca/pages/decio.coviello/home.html" target="_blank">*Decio Coviello*</a> *and* <a href="https://nicolamastrorocco.com/" target="_blank">*Nicola Mastrorocco*</a>
-
-*Abstract*: What is the impact of criminal organisations on the legal economy? This paper investigates this question by studying the effect of the collusion between organised crime and local politicians in the South of Italy. In order to capture the presence of organised crime, we exploit the staggered enforcement of a national law allowing the dissolution of a municipal government upon evidence of  collusion  between  elected  officials and the mafia. We then measure the consequences of this collusion by using unique data on public procurements and firms. Difference-in-differences estimates reveal that infiltrated governments present lower average rebates and are more likely to have non-public negotiations. Results are heterogeneous across procurement macro-categories and political party colours. Moreover, firms winning a procurement contract in a captured municipality exhibit an increase in profits and labour, a  reduction in capital, leaving unaffected total factor productivity.
-
-<br />
-
 
 **Social capital and the power of mafia**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>
 
-*Abstract*: What is the long-term effect of organized crime presence on social capital? We examine this relationship in Italian municipalities, by focusing on two scenarios. First, we focus on the historical presence of the Sicilian mafia on the island, where we employ an instrumental variable approach to address potential endogeneity concerns. Second, we focus on the Centre-North of the country, where we exploit a law ("*Soggiorno obbligato*") that forced organized crime members living in the South of Italy to resettle in the Centre-North area. By employing a set of variables that proxy for social capital, we find the following preliminary results. An overall negative effect of organized crime presence in the Sicilian context, in line with the idea that this presence creates an extorsive and corrupted environment which, in turn, negatively affects social capital, while a set of mixed results in the Centre-North context.
+*Abstract*: What is the long-term effect of organized crime presence on social capital? This study combines multiple historical data sources to investigate the relationship between long-term exposure to organised crime’s activities and social capital.
+Focusing on the expansion of criminal organization in the North of Italy, we provide two alternative empirical identification strategies, based on an instrumental variable approach. First, we exploit a law ("*Soggiorno obbligato*") that forced organized crime members living in the South of Italy to resettle in the Centre-North area. Second, we exploit the combination of migratory movements from the South to the Centre-North and the allocation of Marshall plan funds. Employing a set of outcomes that proxy for social capital, estimates show that long-term exposure to mafia presence depresses the social capital accumulation
+
+<br />
+
+**Organised crime, public procurement and firms**, *with* <a href="https://tintin.hec.ca/pages/decio.coviello/home.html" target="_blank">*Decio Coviello*</a> *and* <a href="https://nicolamastrorocco.com/" target="_blank">*Nicola Mastrorocco*</a>
 
 <br />
 
 **Organised crime and human capital, within-city evidence from Italy** 
-
-*Abstract*: *Coming soon!*
 
 <br />
 
