@@ -1,6 +1,6 @@
----
-title: <div align="center">Teaching
----
+<div align="center">
+# Teaching 
+<div>
 
 
 ****

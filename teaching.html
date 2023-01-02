@@ -13,8 +13,8 @@
 
 <title>teaching.knit</title>
 
-<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -235,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -300,10 +301,14 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><div align="center">
-Teaching</h1>
 
 </div>
+
+
+<div align="center">
+<div id="teaching" class="section level1">
+<h1>Teaching</h1>
+<div>
 
 
 <hr />
@@ -311,18 +316,35 @@ Teaching</h1>
 
 <div id="teaching-assistant" class="section level4">
 <h4>Teaching Assistant</h4>
-<p><strong><a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/microeconomics-1/" target="_blank"><em>Introduction to Microeconomics</em></a></strong>, <em>TCD (MSc), Fall 2021. Lecturer: Prof. Alejandra Ramos. Average evaluation: 5/5.</em></p>
-<p><strong><a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/political-economy/" target="_blank"><em>Topics in Political Economy</em></a></strong>, <em>TCD (MSc), Fall 2019-2020. Lecturer: Prof. Nicola Mastrorocco. Average evaluation: 4.75/5.</em></p>
-<p><strong><a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/topics-in-development-economics/" target="_blank"><em>Topics in Development Economics</em></a></strong>, <em>TCD (MSc), Spring 2020. Lecturer: Prof. Gaia Narciso.</em></p>
-<p><strong><a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/emergence-of-macroeconomic-policy/" target="_blank"><em>Emergence of Macroeconomic Policy</em></a></strong>, <em>TCD (MSc), Spring 2020. Lecturer: Prof. Marvin Suesse. Average evaluation: 4.3/5.</em></p>
-<p><strong><a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/long-run-development/" target="_blank"><em>Long-Run Development</em></a></strong>, <em>TCD (MSc), Fall 2019. Lecturer: Prof. Marvin Suesse. Average evaluation: 5/5.</em></p>
-<p><strong><a href="https://www.tcd.ie/Economics/undergraduate/jf/intro-economics_a/index.php" target="_blank"><em>Introduction to Economic Policy A</em></a></strong>, <em>TCD (BSc), Fall 2018. Lecturer: Diarmaid Smyth. Average evaluation: 4.11/5.</em></p>
-<p><strong><a href="https://www.tcd.ie/Economics/undergraduate/jf/intro-economics_b/index.php" target="_blank"><em>Introduction to Economic Policy B</em></a></strong>, <em>TCD (BSc), Spring 2019. Lecturer: Prof. Joseph Kopecky.</em></p>
+<p><strong><a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/microeconomics-1/" target="_blank"><em>Introduction
+to Microeconomics</em></a></strong>, <em>TCD (MSc), Fall 2021. Lecturer:
+Prof. Alejandra Ramos. Average evaluation: 5/5.</em></p>
+<p><strong><a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/political-economy/" target="_blank"><em>Topics
+in Political Economy</em></a></strong>, <em>TCD (MSc), Fall 2019-2020.
+Lecturer: Prof. Nicola Mastrorocco. Average evaluation: 4.75/5.</em></p>
+<p><strong><a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/topics-in-development-economics/" target="_blank"><em>Topics
+in Development Economics</em></a></strong>, <em>TCD (MSc), Spring 2020.
+Lecturer: Prof. Gaia Narciso.</em></p>
+<p><strong><a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/emergence-of-macroeconomic-policy/" target="_blank"><em>Emergence
+of Macroeconomic Policy</em></a></strong>, <em>TCD (MSc), Spring 2020.
+Lecturer: Prof. Marvin Suesse. Average evaluation: 4.3/5.</em></p>
+<p><strong><a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/long-run-development/" target="_blank"><em>Long-Run
+Development</em></a></strong>, <em>TCD (MSc), Fall 2019. Lecturer:
+Prof. Marvin Suesse. Average evaluation: 5/5.</em></p>
+<p><strong><a href="https://www.tcd.ie/Economics/undergraduate/jf/intro-economics_a/index.php" target="_blank"><em>Introduction
+to Economic Policy A</em></a></strong>, <em>TCD (BSc), Fall 2018.
+Lecturer: Diarmaid Smyth. Average evaluation: 4.11/5.</em></p>
+<p><strong><a href="https://www.tcd.ie/Economics/undergraduate/jf/intro-economics_b/index.php" target="_blank"><em>Introduction
+to Economic Policy B</em></a></strong>, <em>TCD (BSc), Spring 2019.
+Lecturer: Prof. Joseph Kopecky.</em></p>
 <p><br /></p>
 </div>
 <div id="guest-lecturer" class="section level4">
 <h4>Guest Lecturer</h4>
-<p><strong><a href="https://www.maynoothuniversity.ie/faculty-social-sciences/news/big-data-and-machine-learning-workshop-dr-bruno-morando-department-economics" target="_blank"><em>Big Data and Machine Learning Workshop</em></a></strong>, <em>Maynooth University (MSc, PhD), Spring 2022. Lecturer: Dr. Bruno Morando</em></p>
+<p><strong><a href="https://www.maynoothuniversity.ie/faculty-social-sciences/news/big-data-and-machine-learning-workshop-dr-bruno-morando-department-economics" target="_blank"><em>Big
+Data and Machine Learning Workshop</em></a></strong>, <em>Maynooth
+University (MSc, PhD), Spring 2022. Lecturer: Dr. Bruno Morando</em></p>
+</div>
 </div>
 
 

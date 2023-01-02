@@ -1,14 +1,14 @@
----
-title: Federico Fabio Frattini
----
-
+<div align="center">
+# Federico Fabio Frattini 
+<div>
 
 ****
+
 <div id=content-desktop>
 
 <div style="float:left; width:60%;" align="justify">
 
-## Welcome to my website!
+### Welcome to my website!
 
 <br />
 
