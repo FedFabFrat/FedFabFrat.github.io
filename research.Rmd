@@ -21,8 +21,7 @@
 
 **Social capital and the power of mafia**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>
 
-*Abstract*: What is the long-term effect of organized crime presence on social capital? This study combines multiple historical data sources to investigate the relationship between long-term exposure to organised crime’s activities and social capital.
-Focusing on the expansion of criminal organization in the North of Italy, we provide two alternative empirical identification strategies, based on an instrumental variable approach. First, we exploit a law ("*Soggiorno obbligato*") that forced organized crime members living in the South of Italy to resettle in the Centre-North area. Second, we exploit the combination of migratory movements from the South to the Centre-North and the allocation of Marshall plan funds. Employing a set of outcomes that proxy for social capital, estimates show that long-term exposure to mafia presence depresses the social capital accumulation.
+*Abstract*: What is the long-term effect of organised crime presence on social capital? This study combines multiple historical data sources, especially novel ones related to social capital and organised crime, to study this the relationship. Focusing on the expansion of criminal organisation in the Centre-North of Italy, we provide two alternative empirical identification strategies, based on an instrumental variable approach. First, we exploit a law ("*soggiorno obbligato*") that forced organised crime members living in the South of Italy to resettle in the Centre-North area. Second, we exploit the combination of migratory movements from the South to the Centre-North and the allocation of Marshall plan funds. Primarily employing a measure of tax compliance, which proxies for civic awareness, estimates show that long-term exposure to mafia presence depresses the social capital accumulation.
 
 <br />
 
