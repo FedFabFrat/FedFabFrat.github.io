@@ -26,8 +26,6 @@ This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Downloa
 
 * Twitter: <a href="https://twitter.com/FedFabFrat" target="_blank">FedFabFrat</a>
 
-* Phone number: +393757215672
-
 </div>
 
 <div style="float:right; width:40%; margin-left:20px; margin-right:-105px;">
@@ -62,8 +60,6 @@ This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Downloa
 * Email: [frattinf@tcd.ie](mailto:frattinf@tcd.ie)
 
 * Twitter: <a href="https://twitter.com/FedFabFrat" target="_blank">FedFabFrat</a>
-
-* Phone number: +393757215672
 
 <br />
 
