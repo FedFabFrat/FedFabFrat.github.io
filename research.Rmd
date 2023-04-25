@@ -12,14 +12,14 @@
 <br />
 
 
-**Simultaneous elections and electoral outcomes: evidence from Italy**
+**Simultaneous elections and electoral outcomes: evidence from Italy**, *(draft coming soon!)*
 
 *Abstract*: This paper investigates the impact that the simultaneity of national and local elections has on the local electoral stage, in terms of civic and political participation, political competition and electoral results. Methodologically, I employ a difference-in-differences design that exploits the staggered nature of the local elections in Italy, where some municipalities experience the simultaneity, while the rest do not. Voters' participation is positively impacted, with homogeneous effects along the gender dimension. Political participation mildly increases, while its competition is affected in an opposite way. Mayors winning in this simultaneous setting are more likely to have previous office experience. Lastly, using the simultaneity as a sample restriction, I document the existence of a split-ticket voting behaviour. In this regard, I find support for the divided government hypothesis as a mechanism.
 
 <br />
 
 
-**Social capital and the power of mafia**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>
+**Social capital and the power of mafia**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>, *(draft coming soon!)*
 
 *Abstract*: What is the long-term effect of organised crime presence on social capital? This study combines multiple historical data sources, especially novel ones related to social capital and organised crime, to study this the relationship. Focusing on the expansion of criminal organisation in the Centre-North of Italy, we provide two alternative empirical identification strategies, based on an instrumental variable approach. First, we exploit a law ("*soggiorno obbligato*") that forced organised crime members living in the South of Italy to resettle in the Centre-North area. Second, we exploit the combination of migratory movements from the South to the Centre-North and the allocation of Marshall plan funds. Primarily employing a measure of tax compliance, which proxies for civic awareness, estimates show that long-term exposure to mafia presence depresses the social capital accumulation.
 
