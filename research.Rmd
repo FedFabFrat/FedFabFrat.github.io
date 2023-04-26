@@ -19,15 +19,12 @@
 <br />
 
 
-**Social capital and the power of mafia**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>, *(draft coming soon!)*
+**When Crime Tears Communities Apart: Social Capital and Organised Crime**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>, *(draft coming soon!)*
 
-*Abstract*: What is the long-term effect of organised crime presence on social capital? This study combines multiple historical data sources, especially novel ones related to social capital and organised crime, to study this the relationship. Focusing on the expansion of criminal organisation in the Centre-North of Italy, we provide two alternative empirical identification strategies, based on an instrumental variable approach. First, we exploit a law ("*soggiorno obbligato*") that forced organised crime members living in the South of Italy to resettle in the Centre-North area. Second, we exploit the combination of migratory movements from the South to the Centre-North and the allocation of Marshall plan funds. Primarily employing a measure of tax compliance, which proxies for civic awareness, estimates show that long-term exposure to mafia presence depresses the social capital accumulation.
-
-<br />
-
-**Organised crime, public procurement and firms**, *with* <a href="https://tintin.hec.ca/pages/decio.coviello/home.html" target="_blank">*Decio Coviello*</a> *and* <a href="https://nicolamastrorocco.com/" target="_blank">*Nicola Mastrorocco*</a>
+*Abstract*:What is the long-term effect of organised crime presence on social capital accumulation? By leveraging novel data related to social capital and organised crime, this study investigates this question within the Italian landscape. Focusing on its recent expansion to the Centre-North of the country, in an instrumental variable  (IV) setting, we exploit the forced resettlement law that compelled organised crime members living in the South of Italy to resettle in the Centre-North area. Using a granular measure of tax compliance as a proxy for civic awareness, we find evidence that sustained exposure to mafia presence depresses social capital accumulation. This finding applies to other dimensions of social capital, such as civic engagement and political participation. Results are robust to a series of robustness checks, such as the alternative strategy combining the migratory movements from the South and the allocation of Marshall Plan funds. The findings appear to be influenced by a tolerance of dishonest conduct, a decrease in institutional trust, and a general disengagement from social activities.
 
 <br />
+
 
 **Green industrialization and local job multipliers**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
 
