@@ -21,7 +21,7 @@ navbar:
     - icon: fa-twitter fa
       href: https://twitter.com/FedFabFrat
     - icon: fa-linkedin fa
-      href:  www.linkedin.com/in/federico-fabio-frattini
+      href: https://www.linkedin.com/in/federico-fabio-frattini/
 output:
   html_document:
     highlight: textmate
