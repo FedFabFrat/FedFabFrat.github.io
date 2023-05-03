@@ -7,10 +7,24 @@
 
 <div align="justify">
 
-### Working Papers
+### Peer Reviewed Publications
 
 <br />
 
+
+**Setting an example: political leaders’ cues and health behavior in the early stages of the COVID-19 pandemic in Mexico**, <a href="https://onlinelibrary.wiley.com/doi/10.1111/lamp.12223" target="_blank">*__Latin American Policy__*</a> *(2021)*, *with* <a href="https://sites.google.com/view/brunomorando/home" target="_blank">*Bruno Morando*</a> *and* <a href="https://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1" target="_blank">*Luciano Ayala Cantu*</a>
+
+*Abstract*: How do political leaders’ cues affect citizen behavior regarding a new and complex issue? We address this question in the context of the early stages of the Covid‐19 pandemic in Mexico, using electoral outcomes and municipal‐level mobility data from Facebook's Movement Range Maps. In March 2020, Mexico's president downplayed constantly the severity of the coming health crisis by continuing his political rallies throughout the country and encouraging people to leave their homes. Using an event‐study analysis, we find that, after the first press conference where his government declared mobility restrictions were not yet necessary, on March 13, citizens’ geographic mobility in pro‐government municipalities was higher than in cities where support for the president was less strong. Our results are robust to several specifications and definitions of political support. Moreover, we find evidence that our results are driven by cities with higher media penetration, which implies that they can be attributed to people's reactions to the president's cues rather than to systematic differences in the preferences of his supporters.
+
+<br />
+
+
+<br />
+
+
+### Working Papers
+
+<br />
 
 **Simultaneous elections and electoral outcomes: evidence from Italy**, *(draft coming soon!)*
 
@@ -18,10 +32,15 @@
 
 <br />
 
-
 **When Crime Tears Communities Apart: Social Capital and Organised Crime**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>, *(submitted, draft available <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431634" target="_blank">**here**</a>)*
 
 *Abstract*: What is the long-term effect of organised crime presence on social capital accumulation? By leveraging novel data related to social capital and organised crime, this study investigates this question within the Italian landscape. Focusing on its recent expansion to the Centre-North of the country, in an instrumental variable  (IV) setting, we exploit the forced resettlement law that compelled organised crime members living in the South of Italy to resettle in the Centre-North area. Using a granular measure of tax compliance as a proxy for civic awareness, we find evidence that sustained exposure to mafia presence depresses social capital accumulation. This finding applies to other dimensions of social capital, such as civic engagement and political participation. Results are robust to a series of robustness checks, such as the alternative strategy combining the migratory movements from the South and the allocation of Marshall Plan funds. The findings appear to be influenced by a tolerance of dishonest conduct, a decrease in institutional trust, and a general disengagement from social activities.
+
+<br />
+
+<br />
+
+### Work in progress
 
 <br />
 
@@ -36,20 +55,4 @@
 
 **Organised crime and human capital, within-city evidence from Italy** 
 
-<br />
 
-
-<br />
-
-
-### Peer Reviewed Publications
-
-<br />
-
-
-**Setting an example: political leaders’ cues and health behavior in the early stages of the COVID-19 pandemic in Mexico**, <a href="https://onlinelibrary.wiley.com/doi/10.1111/lamp.12223" target="_blank">*__Latin American Policy__*</a> *(2021)*, *with* <a href="https://sites.google.com/view/brunomorando/home" target="_blank">*Bruno Morando*</a> *and* <a href="https://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1" target="_blank">*Luciano Ayala Cantu*</a>
-
-
-
-
-*Abstract*: How do political leaders’ cues affect citizen behavior regarding a new and complex issue? We address this question in the context of the early stages of the Covid‐19 pandemic in Mexico, using electoral outcomes and municipal‐level mobility data from Facebook's Movement Range Maps. In March 2020, Mexico's president downplayed constantly the severity of the coming health crisis by continuing his political rallies throughout the country and encouraging people to leave their homes. Using an event‐study analysis, we find that, after the first press conference where his government declared mobility restrictions were not yet necessary, on March 13, citizens’ geographic mobility in pro‐government municipalities was higher than in cities where support for the president was less strong. Our results are robust to several specifications and definitions of political support. Moreover, we find evidence that our results are driven by cities with higher media penetration, which implies that they can be attributed to people's reactions to the president's cues rather than to systematic differences in the preferences of his supporters.
