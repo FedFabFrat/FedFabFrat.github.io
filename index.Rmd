@@ -16,7 +16,7 @@ I am a Researcher at the <a href="https://www.feem.it/" target="_blank">Fondazio
 
 My research interests revolve around Political Economics, Labor Economics, Economics of Crime and Micro-econometrics. I am enthusiast about coding, using programming and statistical software such as STATA, Python and R. I built this website using Rmarkdown and Github. Beyond economics, I like sports, basketball and football in particular, travelling and videogames.
 
-This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Download CV as PDF">**CV**</a>, while this is a detailed outline of my current <a href="https://fedfabfrat.github.io/research.html">**research projects**</a>, and this is a brief list of the <a href="https://fedfabfrat.github.io/teaching.html">**courses**</a> I taught during my PhD experience.
+This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Download CV as PDF">**CV**</a>, while this is a detailed outline of my current <a href="https://fedfabfrat.github.io/research.html">**research projects**</a>, and this is a list of the <a href="https://fedfabfrat.github.io/teaching.html">**courses**</a> I taught.
 
 <br />
 
@@ -51,7 +51,7 @@ I am a Researcher at the <a href="https://www.feem.it/" target="_blank">Fondazio
 
 My research interests revolve around Political Economics, Labor Economics, Economics of Crime and Micro-econometrics. I am enthusiast about coding, using programming and statistical software such as STATA, Python and R. I built this website using Rmarkdown and Github. Beyond economics, I like sports, basketball and football in particular, travelling and videogames.
 
-This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Download CV as PDF">**CV**</a>, while this is a detailed outline of my current <a href="https://fedfabfrat.github.io/research.html">**research projects**</a>, and this is a brief list of the <a href="https://fedfabfrat.github.io/teaching.html">**courses**</a> I taught during my PhD experience.
+This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Download CV as PDF">**CV**</a>, while this is a detailed outline of my current <a href="https://fedfabfrat.github.io/research.html">**research projects**</a>, and this is a list of the <a href="https://fedfabfrat.github.io/teaching.html">**courses**</a> I taught.
 
 <br />
 
