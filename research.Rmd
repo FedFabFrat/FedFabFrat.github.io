@@ -38,7 +38,7 @@
 
 *(drafts: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437773" target="_blank">**SSRN**</a>; <a href="https://www.feem.it/en/publications/when-crime-tears-communities-apart-social-capital-and-organised-crime/" target="_blank">**FEEM**</a>)*
 
-*Abstract*: What is the long-term effect of organised crime presence on social capital accumulation? By leveraging novel data related to social capital and organised crime, this study investigates this question within the Italian landscape. Focusing on its recent expansion to the Centre-North of the country, in an instrumental variable  (IV) setting, we exploit the forced resettlement law that compelled organised crime members living in the South of Italy to resettle in the Centre-North area. Using a granular measure of tax compliance as a proxy for civic awareness, we find evidence that sustained exposure to mafia presence depresses social capital accumulation. This finding applies to other dimensions of social capital, such as civic engagement and political participation. Results are robust to a series of robustness checks, such as the alternative strategy combining the migratory movements from the South and the allocation of Marshall Plan funds. The findings appear to be influenced by a tolerance of dishonest conduct, a decrease in institutional trust, and a general disengagement from social activities.
+*Abstract*: What is the long-term effect of organised crime presence on social capital accumulation? By leveraging novel civic capital and organised crime data, this study investigates this question within the Italian landscape. In an instrumental variable (IV) setting, we exploit the forced resettlement law that compelled organised crime members living in the South of Italy to resettle in the Centre-North area. Using a granular measure of tax compliance as a proxy for civic awareness, we find evidence that sustained exposure to mafia presence depresses civic capital accumulation. Results are robust to a series of robustness checks, such as the use of an alternative IV strategy. The findings appear to be influenced by a change in population composition, and a higher tolerance of dishonest conduct, net of the composition change.
 
 <br />
 
@@ -54,6 +54,10 @@
 <br />
 
 **Green specialization and labour market outcomes in EU manufacturing industries**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+
+<br />
+
+**The Final Mile against Polio: Reaching the-Hard-to-Reach**, *with* <a href="https://sites.google.com/view/lauramunozblanco/home?authuser=0" target="_blank">*Laura Muñoz Blanco*</a>
 
 <br />
 
