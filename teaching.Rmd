@@ -7,6 +7,11 @@
 
 <div align="justify">
 
+#### Lecturer
+**<a href="https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2024/advanced-microeconomics" target="_blank">*Advanced microeconomics*</a>**, *UniMi (MSc), Fall 2023.*
+
+<br />
+
 #### Teaching Assistant
 
 **<a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/microeconomics-1/" target="_blank">*Introduction to Microeconomics*</a>**, *TCD (MSc), Fall 2021. Lecturer:  Prof. Alejandra Ramos. Average evaluation: 5/5.*
