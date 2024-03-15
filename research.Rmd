@@ -48,16 +48,17 @@
 
 <br />
 
+**The Final Mile against Polio: Reaching the-Hard-to-Reach**, *with* <a href="https://sites.google.com/view/lauramunozblanco/home?authuser=0" target="_blank">*Laura Muñoz Blanco*</a>
+
+*Abstract*: Disease eradication is the holy grail of all global health efforts. And, we are closer than ever to ending polio, but the increasing number of internally displaced people (IDP) could pose new challenges. What are the impacts of IDP inflows on host communities' polio incidence? To tackle this question, we use the mass displacement of the population from the conflict-affected Federally Administered Tribal Areas (F.A.T.A.) to other districts in Pakistan between 2008 and 2022. In a difference-in-differences approach, we compare the new polio cases in districts closer and farther away from the F.A.T.A. border before and after the conflict onset in 2008. Additionally, we exploit the spatial distribution of districts with respect to the pre-colonial region of Pashtunistan to define the sample. The results show that an increase of one standard deviation in predicted inflows results in 0.002 additional polio cases per 100,000 inhabitants, corresponding to 30% of the mean incidence. There are two underlying mechanisms: low prevention (insufficient vaccine opportunities for IDP children) and precarious health conditions in host communities (overpopulated communities and the congestion of health services). 
+
+<br />
 
 **Green industrialization and local job multipliers**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
 
 <br />
 
 **Green specialization and labour market outcomes in EU manufacturing industries**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
-
-<br />
-
-**The Final Mile against Polio: Reaching the-Hard-to-Reach**, *with* <a href="https://sites.google.com/view/lauramunozblanco/home?authuser=0" target="_blank">*Laura Muñoz Blanco*</a>
 
 <br />
 
