@@ -30,8 +30,9 @@ document.title = "Research"
 
 <br />
 
-**When Crime Tears Communities Apart: Social Capital and Organised Crime**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a> 
-*(drafts: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437773" target="_blank">**SSRN**</a>; <a href="https://www.feem.it/en/publications/when-crime-tears-communities-apart-social-capital-and-organised-crime/" target="_blank">**FEEM**</a>)*
+**When Crime Tears Communities Apart: Social Capital and Organised Crime**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>
+
+*Drafts: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437773" target="_blank">**SSRN**</a>; <a href="https://www.feem.it/en/publications/when-crime-tears-communities-apart-social-capital-and-organised-crime/" target="_blank">**FEEM**</a>*
 
 *Status: submitted*
 
@@ -67,13 +68,13 @@ document.title = "Research"
 
 <br />
 
-**Green industrialization and local job multipliers**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+**The local labour market effects of the green re-industrialization**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
 
 *Status: review of first draft*
 
 <br />
 
-**Populism, Federalism and Tax Evasion**, *with* <a href="https://sites.google.com/view/francesco-barilari/home" target="_blank">*Francesco Barilari*</a>, <a href="https://sites.google.com/view/francescacalamunci/home" target="_blank">*Francesca Calamunci*</a> *and* <a href="https://sites.google.com/view/diegozambiasi/home" target="_blank">*Diego Zambiasi*</a>
+**Populism, federalism and tax Evasion**, *with* <a href="https://sites.google.com/view/francesco-barilari/home" target="_blank">*Francesco Barilari*</a>, <a href="https://sites.google.com/view/francescacalamunci/home" target="_blank">*Francesca Calamunci*</a> *and* <a href="https://sites.google.com/view/diegozambiasi/home" target="_blank">*Diego Zambiasi*</a>
 
 *Status: writing first draft*
 
