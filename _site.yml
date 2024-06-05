@@ -15,7 +15,7 @@ navbar:
       href: teaching.html
   right:
     - icon: fa-envelope-o fa
-      href: mailto:frattinf@tcd.ie
+      href: mailto:federico.frattini@feem.it
     - icon: fa-github fa
       href: https://github.com/FedFabFrat
     - icon: fa-twitter fa

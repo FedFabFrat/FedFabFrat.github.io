@@ -1,3 +1,7 @@
+```{js, echo = FALSE}
+document.title = "Research"
+```
+
 <div align="center">
 # Research 
 <div>
@@ -26,17 +30,10 @@
 
 <br />
 
-**Simultaneous elections and electoral outcomes: evidence from Italy** 
-
-*(draft coming soon!)*
-
-*Abstract*: This paper investigates the impact that the simultaneity of national and local elections has on the local electoral stage, in terms of civic and political participation, political competition and electoral results. Methodologically, I employ a difference-in-differences design that exploits the staggered nature of the local elections in Italy, where some municipalities experience the simultaneity, while the rest do not. Voters' participation is positively impacted, with homogeneous effects along the gender dimension. Political participation mildly increases, while its competition is affected in an opposite way. Mayors winning in this simultaneous setting are more likely to have previous office experience. Lastly, using the simultaneity as a sample restriction, I document the existence of a split-ticket voting behaviour. In this regard, I find support for the divided government hypothesis as a mechanism.
-
-<br />
-
 **When Crime Tears Communities Apart: Social Capital and Organised Crime**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a> 
-
 *(drafts: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437773" target="_blank">**SSRN**</a>; <a href="https://www.feem.it/en/publications/when-crime-tears-communities-apart-social-capital-and-organised-crime/" target="_blank">**FEEM**</a>)*
+
+*Status: submitted*
 
 *Abstract*: What is the long-term effect of organised crime presence on social capital accumulation? By leveraging novel civic capital and organised crime data, this study investigates this question within the Italian landscape. In an instrumental variable (IV) setting, we exploit the forced resettlement law that compelled organised crime members living in the South of Italy to resettle in the Centre-North area. Using a municipality-level measure of tax compliance as a proxy for civic awareness, we find evidence that sustained exposure to mafia presence depresses civic capital accumulation. Results are robust to a series of robustness checks, such as using an alternative IV strategy. The findings appear not to be influenced by a change in population composition but rather by a change in values, resulting in a higher tolerance of dishonest conduct
 
@@ -48,24 +45,42 @@
 
 <br />
 
+**Simultaneous elections and electoral outcomes: evidence from Italy** 
+
+*Status: review of final draft*
+
+*Abstract*: This paper investigates the impact that the simultaneity of national and local elections has on the local electoral stage, in terms of civic and political participation, political competition and electoral results. Methodologically, I employ a difference-in-differences design that exploits the staggered nature of the local elections in Italy, where some municipalities experience the simultaneity, while the rest do not. Voters' participation is positively impacted, with homogeneous effects along the gender dimension. Political participation mildly increases, while its competition is affected in an opposite way. Mayors winning in this simultaneous setting are more likely to have previous office experience. Lastly, using the simultaneity as a sample restriction, I document the existence of a split-ticket voting behaviour. In this regard, I find support for the divided government hypothesis as a mechanism.
+
+<br />
+
 **The Final Mile against Polio: Reaching the-Hard-to-Reach**, *with* <a href="https://sites.google.com/view/lauramunozblanco/home?authuser=0" target="_blank">*Laura Muñoz Blanco*</a>
+
+*Status: review of final draft*
 
 *Abstract*: Disease eradication is the holy grail of all global health efforts. And, we are closer than ever to ending polio, but the increasing number of internally displaced people (IDP) could pose new challenges. What are the impacts of IDP inflows on host communities' polio incidence? To tackle this question, we use the mass displacement of the population from the conflict-affected Federally Administered Tribal Areas (F.A.T.A.) to other districts in Pakistan between 2008 and 2022. In a difference-in-differences approach, we compare the new polio cases in districts closer and farther away from the F.A.T.A. border before and after the conflict onset in 2008. Additionally, we exploit the spatial distribution of districts with respect to the pre-colonial region of Pashtunistan to define the sample. The results show that an increase of one standard deviation in predicted inflows results in 0.002 additional polio cases per 100,000 inhabitants, corresponding to 30% of the mean incidence. There are two underlying mechanisms: low prevention (insufficient vaccine opportunities for IDP children) and precarious health conditions in host communities (overpopulated communities and the congestion of health services). 
 
 <br />
 
-**Green industrialization and local job multipliers**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+**Green specialization and labour market outcomes in EU manufacturing industries**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+
+*Status: review of final draft*
 
 <br />
 
-**Green specialization and labour market outcomes in EU manufacturing industries**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+**Green industrialization and local job multipliers**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+
+*Status: review of first draft*
 
 <br />
 
 **Populism, Federalism and Tax Evasion**, *with* <a href="https://sites.google.com/view/francesco-barilari/home" target="_blank">*Francesco Barilari*</a>, <a href="https://sites.google.com/view/francescacalamunci/home" target="_blank">*Francesca Calamunci*</a> *and* <a href="https://sites.google.com/view/diegozambiasi/home" target="_blank">*Diego Zambiasi*</a>
 
+*Status: writing first draft*
+
 <br />
 
 **Organised crime and human capital, within-city evidence from Italy** 
+
+*Status: resting*
 
 
