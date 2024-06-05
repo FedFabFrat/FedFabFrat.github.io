@@ -24,7 +24,8 @@ navbar:
       href: https://www.linkedin.com/in/federico-fabio-frattini/
 output:
   html_document:
-    highlight: textmate
+    theme: darkly
+    highlight: espresso
     lib_dir: site_libs
     self_contained: no
     css: style.css
