@@ -13,6 +13,9 @@ navbar:
     - text: "Teaching"
       icon: fa-university
       href: teaching.html
+    - text: "Other"
+      icon: fa-door-open
+      href: other.html
   right:
     - icon: fa-envelope-o fa
       href: mailto:federico.frattini@feem.it
