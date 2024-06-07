@@ -15,16 +15,16 @@ library(fontawesome)
 
 <div align="justify">
 
-### `r fa("music")` 5 songs I am into recently
+### `r fa("music")` A few songs I am into recently
 
-1. *Beautiful things*, Benson Boone (*<a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9?si=9fa2d6ebee154cd0" target="_blank">**listen!**</a>*)
+* *Beautiful things*, Benson Boone (*<a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9?si=9fa2d6ebee154cd0" target="_blank">**listen!**</a>*)
 
-2. *Something to someone*, Dermot Kennedy (*<a href="https://open.spotify.com/track/4AQXIIhoKpkn7gMMS4StAY?si=ef87a4ed5628493b" target="_blank">**listen!**</a>* -- *<a href="https://www.youtube.com/watch?v=qk8pqYTQIAE" target="_blank">**marvellous live at Malahide Castle**</a>*)
+* *Something to someone*, Dermot Kennedy (*<a href="https://open.spotify.com/track/4AQXIIhoKpkn7gMMS4StAY?si=ef87a4ed5628493b" target="_blank">**listen!**</a>* -- *<a href="https://www.youtube.com/watch?v=qk8pqYTQIAE" target="_blank">**marvellous live at Malahide Castle**</a>*)
 
-3. *Sloppy seconds*, Watsky (*<a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz?si=2f32bc6d76774227" target="_blank">**listen!**</a>*)
+* *Sloppy seconds*, Watsky (*<a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz?si=2f32bc6d76774227" target="_blank">**listen!**</a>*)
 
-4. *The Sound of Silence - The Last Dance Remix*, SWANN `r fa("basketball")` (*<a href="https://open.spotify.com/track/1eNHGRkKfIoJis7s9g9K8S?si=03d46012d3144a20" target="_blank">**listen!**</a>*)
+* *The Sound of Silence - The Last Dance Remix*, SWANN `r fa("basketball")` (*<a href="https://open.spotify.com/track/1eNHGRkKfIoJis7s9g9K8S?si=03d46012d3144a20" target="_blank">**listen!**</a>*)
 
-5. *Bersekir*, Danheim (*<a href="https://open.spotify.com/track/5xq2Ucj8Pl9jcPcmzO7UAD?si=69de74e6d7934cb8" target="_blank">**listen!**</a>*)
+* *Bersekir*, Danheim (*<a href="https://open.spotify.com/track/5xq2Ucj8Pl9jcPcmzO7UAD?si=69de74e6d7934cb8" target="_blank">**listen!**</a>*)
 
 <br />
