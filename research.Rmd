@@ -11,7 +11,7 @@ document.title = "Research"
 
 <div align="justify">
 
-### Peer Reviewed Publications
+### <ins> Peer Reviewed Publications </ins>
 
 <br />
 
@@ -28,7 +28,7 @@ document.title = "Research"
 <br />
 
 
-### Working Papers
+### <ins> Working Papers </ins>
 
 <br />
 
@@ -47,7 +47,7 @@ document.title = "Research"
 
 <br />
 
-### Work in progress
+### <ins> Work in progress </ins>
 
 <br />
 
