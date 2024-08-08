@@ -71,9 +71,9 @@ document.title = "Research"
 
 <br />
 
-**Green specialization and labour market outcomes in EU manufacturing industries**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+**Does Green Re-industrialization Pay off? Impacts on Employment, Wages and Productivity**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
 
-*Status: review of final draft*
+*Status: submitted*
 
 <details close>
 <summary> *Abstract* </summary> What are the consequences of green industrialization on the labour market and industry dynamics? This paper tackles and quantifies this question by employing observable and reliable data on green manufacturing production for an extensive set of EU countries and 4-digit manufacturing industries for over a decade. First, at a descriptive level, this paper documents that green production is mostly concentrated in a few countries and industries. Moreover, potentially green industries outperform the others in terms of employment, average wages, value added and productivity. Second, when controlling for other drivers of the labour market and industry dynamics in the econometric analysis, it finds that employment and value added grow faster in potentially green sectors, particularly at the intensive margin. In contrast, average wages and labour productivity remain unchanged. Then, to purge the analysis from possible endogeneity, this paper employs two shift-share instruments. These econometric exercises corroborate the previous findings. An increase in 1 million€ of sold green production is associated with an increase of 0.03% in employment and value added, respectively. The analysis is extended with different heterogeneity exercises and robustness checks.
