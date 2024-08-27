@@ -45,6 +45,19 @@ document.title = "Research"
 
 <br />
 
+**Does Green Re-industrialization Pay off? Impacts on Employment, Wages and Productivity**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+
+*<a href="https://www.feem.it/en/publications/does-green-re-industrialization-pay-off-impacts-on-employment-wages-and-productivity/" target="_blank">**Most recent draft**</a>*
+
+*Status: submitted*
+
+<details close>
+<summary> *Abstract* </summary> What are the consequences of green industrialization on the labour market and industry dynamics? This paper tackles and quantifies this question by employing observable and reliable data on green manufacturing production for an extensive set of EU countries and 4-digit manufacturing industries for over a decade. First, at a descriptive level, this paper documents that green production is mostly concentrated in a few countries and industries. Moreover, potentially green industries outperform the others in terms of employment, average wages, value added and productivity. Second, when controlling for other drivers of the labour market and industry dynamics in the econometric analysis, it finds that employment and value added grow faster in potentially green sectors, particularly at the intensive margin. In contrast, average wages and labour productivity remain unchanged. Then, to purge the analysis from possible endogeneity, this paper employs two shift-share instruments. These econometric exercises corroborate the previous findings. An increase in 1 million€ of sold green production is associated with an increase of 0.03% in employment and value added, respectively. The analysis is extended with different heterogeneity exercises and robustness checks.
+</details>
+
+<br />
+
+
 <br />
 
 ### <ins> Work in progress </ins>
@@ -67,16 +80,6 @@ document.title = "Research"
 
 <details close>
 <summary>*Abstract*</summary> The rising number of refugees and internally displaced people (IDPs) in developing countries presents new challenges for vaccine distribution and disease eradication. How do IDP inflows affect polio incidence in host communities? Can a policy intervention that vaccinates IDP children during their migration mitigate the impacts? To answer these questions, we examine the Pakistani mass displacement from the conflict-affected Federally Administered Tribal Areas (FATA) in 2008. Using a difference-in-differences approach, we compare new polio cases before and after 2007 in districts near and far from the conflict zone. By analysing the spatial distribution of districts relative to the pre-colonial region of Pashtunistan, we identify host districts. We show that a standard deviation increase in predicted IDP inflow leads to a rise in the new polio cases per 100,000 inhabitants. The main factor behind the results is the immunization gap between IDP and native children. Implementing a vaccination policy targeting IDP children during their migration journey helps bridge this gap. 
-</details>
-
-<br />
-
-**Does Green Re-industrialization Pay off? Impacts on Employment, Wages and Productivity**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
-
-*Status: submitted*
-
-<details close>
-<summary> *Abstract* </summary> What are the consequences of green industrialization on the labour market and industry dynamics? This paper tackles and quantifies this question by employing observable and reliable data on green manufacturing production for an extensive set of EU countries and 4-digit manufacturing industries for over a decade. First, at a descriptive level, this paper documents that green production is mostly concentrated in a few countries and industries. Moreover, potentially green industries outperform the others in terms of employment, average wages, value added and productivity. Second, when controlling for other drivers of the labour market and industry dynamics in the econometric analysis, it finds that employment and value added grow faster in potentially green sectors, particularly at the intensive margin. In contrast, average wages and labour productivity remain unchanged. Then, to purge the analysis from possible endogeneity, this paper employs two shift-share instruments. These econometric exercises corroborate the previous findings. An increase in 1 million€ of sold green production is associated with an increase of 0.03% in employment and value added, respectively. The analysis is extended with different heterogeneity exercises and robustness checks.
 </details>
 
 <br />
