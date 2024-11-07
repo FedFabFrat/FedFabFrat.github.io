@@ -17,34 +17,20 @@ library(fontawesome)
 
 ### `r fa("music")` A few songs I am into recently
 
-* *Beautiful things*, Benson Boone (*<a href="https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9?si=9fa2d6ebee154cd0" target="_blank">**listen!**</a>*)
+* *Two Hearts *, Dermot Kennedy (*<a href="https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA?si=0064ca35c34a4d08" target="_blank">**listen!**</a>*)
 
 * *Something to someone*, Dermot Kennedy (*<a href="https://open.spotify.com/track/4AQXIIhoKpkn7gMMS4StAY?si=ef87a4ed5628493b" target="_blank">**listen!**</a>* -- *<a href="https://www.youtube.com/watch?v=qk8pqYTQIAE" target="_blank">**marvellous live at Malahide Castle**</a>*)
 
-* *Better Days - Stripped *, Dermot Kennedy (*<a href="https://open.spotify.com/track/5278MGuTLVxZ4NWrpMjajs?si=cb3b97aafd5b434c" target="_blank">**listen!**</a>*)
-
-* *Sloppy seconds*, Watsky (*<a href="https://open.spotify.com/track/6ekWVvw642aQsT3AfnCiTz?si=2f32bc6d76774227" target="_blank">**listen!**</a>*)
-
-* *The Sound of Silence - The Last Dance Remix*, SWANN `r fa("basketball")` (*<a href="https://open.spotify.com/track/1eNHGRkKfIoJis7s9g9K8S?si=03d46012d3144a20" target="_blank">**listen!**</a>*)
-
-* *Bersekir*, Danheim (*<a href="https://open.spotify.com/track/5xq2Ucj8Pl9jcPcmzO7UAD?si=69de74e6d7934cb8" target="_blank">**listen!**</a>*)
-
 * *HAPPY*, NF (*<a href="https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R?si=7429d6fcf01c4989" target="_blank">**listen!**</a>*)
+
+* *RUNNING*, NF (*<a href="https://open.spotify.com/track/1l0wPhFZP1kWkZNQrrYrGy?si=41e582613a754542" target="_blank">**listen!**</a>*)
 
 * *HOPE*, NF (*<a href="https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP?si=bf3b65dacd434118" target="_blank">**listen!**</a>*)
 
-* *The Kiss*, Trevor Jones (*<a href="https://open.spotify.com/track/5umoZmJLW98rlImZulfLp5?si=c6fb9ec217994764" target="_blank">**listen!**</a>* -- *<a href="https://open.spotify.com/track/3jdBAZfjZcOVn6kavEXlZN?si=b86a86c72923402d" target="_blank">**amazing guitar adapation by Luca Strignoli **</a>*)
-
-* *Teardrop*, José Gonzàlez (*<a href="https://open.spotify.com/track/3I1vR204axOX2250ie1gt3?si=34958c33d64b48e6" target="_blank">**listen!**</a>*)
-
 * *eyes don't lie*, Kingfishr (*<a href="https://open.spotify.com/track/4SHgZySOqyih9VIhoe239c?si=2f1bc7578f1f42f8" target="_blank">**listen!**</a>*)
-
-* *Sei in un paese meraviglioso*, Giancane (*<a href="https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF?si=0467e258f4e5409a" target="_blank">**listen!**</a>*)
-
-* *Another Love*, Tom Odell (*<a href="https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO?si=d9e383fe6aeb4953" target="_blank">**listen!**</a>*)
 
 * *My Life*, Imagine Dragons (*<a href="https://open.spotify.com/track/0E0kxko3i9b5JxxMoGH3At?si=0f79a7838a284222" target="_blank">**listen!**</a>*)
 
-* *Sharks*, Imagine Dragons (*<a href="https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8?si=8b98b1e09d3a4ec8" target="_blank">**listen!**</a>*)
+These and other songs can be found in my Spotify playlist, *<a href="https://open.spotify.com/playlist/6qYpvSPGedMFXl6rZiqxiK?si=ced1e59686d54d84" target="_blank">**Wolven Storm**</a>*
 
 <br />
