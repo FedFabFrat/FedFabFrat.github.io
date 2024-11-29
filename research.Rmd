@@ -57,6 +57,17 @@ document.title = "Research"
 
 <br />
 
+**Vaccines on the Move and the War on Polio**, *with* <a href="https://sites.google.com/view/lauramunozblanco/home?authuser=0" target="_blank">*Laura Muñoz Blanco*</a>
+
+*<a href="https://exetereconomics.github.io/RePEc/dpapers/DP2403.pdf" target="_blank">**Most recent draft**</a>*
+
+*Status: To be submitted*
+
+<details close>
+<summary>*Abstract*</summary> The rising number of refugees and internally displaced people (IDPs) presents new challenges for vaccine distribution and the spread of diseases. How do forcibly displaced population inflows affect infectious diseases incidence in host communities? Can a policy intervention that vaccinates children during their migration mitigate the impacts? To answer these questions, we examine the Pakistani mass internal displacement from the conflict-affected Federally Administered Tribal Areas in 2008. Using a difference-in-differences approach, we compare new polio cases in districts near and far from the conflict zone before and after 2008. The spatial distribution of districts relative to the historical region of Pashtunistan allows us to design a sample of comparable units. We show that a standard deviation increase in predicted IDP inflow leads to a rise in the new polio cases per 100,000 inhabitants. Poorer vaccination levels among IDP compared to native children in host communities are one of the main mechanisms. Implementing a vaccination policy targeting IDP children during their migration journey helps bridge the vaccination gap, with important welfare implications. 
+</details>
+
+<br />
 
 <br />
 
@@ -70,16 +81,6 @@ document.title = "Research"
 
 <details close>
 <summary>*Abstract*</summary> This paper investigates the impact that the simultaneity of national and local elections has on the local electoral stage, in terms of civic and political participation, political competition and electoral results. Methodologically, I employ a difference-in-differences design that exploits the staggered nature of the local elections in Italy, where some municipalities experience the simultaneity, while the rest do not. Voters' participation is positively impacted, with homogeneous effects along the gender dimension. Political participation mildly increases, while its competition is affected in an opposite way. Mayors winning in this simultaneous setting are more likely to have previous office experience. Lastly, using the simultaneity as a sample restriction, I document the existence of a split-ticket voting behaviour. In this regard, I find support for the divided government hypothesis as a mechanism.
-</details>
-
-<br />
-
-**Vaccines on the Move and the War on Polio**, *with* <a href="https://sites.google.com/view/lauramunozblanco/home?authuser=0" target="_blank">*Laura Muñoz Blanco*</a>
-
-*Status: review of final draft*
-
-<details close>
-<summary>*Abstract*</summary> The rising number of refugees and internally displaced people (IDPs) in developing countries presents new challenges for vaccine distribution and disease eradication. How do IDP inflows affect polio incidence in host communities? Can a policy intervention that vaccinates IDP children during their migration mitigate the impacts? To answer these questions, we examine the Pakistani mass displacement from the conflict-affected Federally Administered Tribal Areas (FATA) in 2008. Using a difference-in-differences approach, we compare new polio cases before and after 2007 in districts near and far from the conflict zone. By analysing the spatial distribution of districts relative to the pre-colonial region of Pashtunistan, we identify host districts. We show that a standard deviation increase in predicted IDP inflow leads to a rise in the new polio cases per 100,000 inhabitants. The main factor behind the results is the immunization gap between IDP and native children. Implementing a vaccination policy targeting IDP children during their migration journey helps bridge this gap. 
 </details>
 
 <br />
