@@ -12,7 +12,7 @@ document.title = "Teaching"
 <div align="justify">
 
 #### Lecturer
-**<a href="https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2024/advanced-microeconomics" target="_blank">*Advanced microeconomics*</a>**, *UniMi (MSc), Fall 2023.*
+**<a href="https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2024/advanced-microeconomics" target="_blank">*Advanced microeconomics*</a>**, *UniMi (MSc), Fall 2023-2024.*
 
 <br />
 
