@@ -7,7 +7,7 @@ library(fontawesome)
 ```
 
 <div align="center">
-# Other 
+# Music 
 <div>
 
 
@@ -17,20 +17,34 @@ library(fontawesome)
 
 ### `r fa("music")` A few songs I am into recently
 
-* *Two Hearts *, Dermot Kennedy (*<a href="https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA?si=0064ca35c34a4d08" target="_blank">**listen!**</a>*)
+* *Rebel Heart*, (*<a href="https://open.spotify.com/intl-it/track/5xvjnyg8FHPGRSkbAhjJh6?si=498781e3ff2149a4" target="_blank">**listen!**</a>*)
 
-* *Something to someone*, Dermot Kennedy (*<a href="https://open.spotify.com/track/4AQXIIhoKpkn7gMMS4StAY?si=ef87a4ed5628493b" target="_blank">**listen!**</a>* -- *<a href="https://www.youtube.com/watch?v=qk8pqYTQIAE" target="_blank">**marvellous live at Malahide Castle**</a>*)
+* *Never Fade Away*, (*<a href="https://open.spotify.com/intl-it/track/1AslaQYl1cMb1ItQKmtJer?si=d6931f834ab04f3f" target="_blank">**listen!**</a>*), (*<a href="https://open.spotify.com/intl-it/track/6pV1lc8lIc8ARNB6KsZukt?si=67fde9522b624945" target="_blank">**listen this beautiful cover!**</a>*)
 
-* *HAPPY*, NF (*<a href="https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R?si=7429d6fcf01c4989" target="_blank">**listen!**</a>*)
+* *Cocktail Molotov*, (*<a href="https://open.spotify.com/intl-it/track/597xDoReZvNnlEoN0IVpVk?si=9241baedb68742bf" target="_blank">**listen!**</a>*)
 
-* *RUNNING*, NF (*<a href="https://open.spotify.com/track/1l0wPhFZP1kWkZNQrrYrGy?si=41e582613a754542" target="_blank">**listen!**</a>*)
+* *Heavy is the Crown*, (*<a href="https://open.spotify.com/intl-it/track/4TGZTPJ50VXfqCIEwf6Bmm?si=881ce7d495724509" target="_blank">**listen!**</a>*)
 
-* *HOPE*, NF (*<a href="https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP?si=bf3b65dacd434118" target="_blank">**listen!**</a>*)
+* *Wasteland*, (*<a href="https://open.spotify.com/intl-it/track/5r9OlaHzqlOKkFAv0q5Gm3?si=3496fa1bb6b24164" target="_blank">**listen!**</a>*)
 
-* *eyes don't lie*, Kingfishr (*<a href="https://open.spotify.com/track/4SHgZySOqyih9VIhoe239c?si=2f1bc7578f1f42f8" target="_blank">**listen!**</a>*)
+* *Biblical Love*, (*<a href="https://open.spotify.com/intl-it/track/4WlGgwoZdNI96WPwsW6Nz5?si=4acfcfb5e0054f95" target="_blank">**listen!**</a>*)
 
-* *My Life*, Imagine Dragons (*<a href="https://open.spotify.com/track/0E0kxko3i9b5JxxMoGH3At?si=0f79a7838a284222" target="_blank">**listen!**</a>*)
+* *Un mare in luce*, (*<a href="https://open.spotify.com/intl-it/track/5UCq9hVUu7ryf1KGRMrpQ5?si=600dc134ea864acc" target="_blank">**listen!**</a>*)
 
-These and other songs can be found in my Spotify playlist, *<a href="https://open.spotify.com/playlist/6qYpvSPGedMFXl6rZiqxiK?si=ced1e59686d54d84" target="_blank">**Wolven Storm**</a>*
+Check my Spotify playlist, *<a href="https://open.spotify.com/playlist/6qYpvSPGedMFXl6rZiqxiK?si=ced1e59686d54d84" target="_blank">**Wolven Storm**</a>*
+
+<br />
+
+
+<div align="center">
+# Drawins and digital paintings 
+<div>
+
+
+****
+
+<div align="justify">
+
+Loading...
 
 <br />
