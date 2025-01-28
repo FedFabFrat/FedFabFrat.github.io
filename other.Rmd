@@ -21,6 +21,8 @@ library(fontawesome)
 
 * *Never Fade Away*, (*<a href="https://open.spotify.com/intl-it/track/1AslaQYl1cMb1ItQKmtJer?si=d6931f834ab04f3f" target="_blank">**listen!**</a>*), (*<a href="https://open.spotify.com/intl-it/track/6pV1lc8lIc8ARNB6KsZukt?si=67fde9522b624945" target="_blank">**listen this beautiful cover!**</a>*)
 
+* *Phantom Liberty*, (*<a href="https://open.spotify.com/intl-it/track/7hRLd8al1yptBLnvDpL2VC?si=c8266ae4d1e24285" target="_blank">**listen!**</a>*)
+
 * *Cocktail Molotov*, (*<a href="https://open.spotify.com/intl-it/track/597xDoReZvNnlEoN0IVpVk?si=9241baedb68742bf" target="_blank">**listen!**</a>*)
 
 * *Heavy is the Crown*, (*<a href="https://open.spotify.com/intl-it/track/4TGZTPJ50VXfqCIEwf6Bmm?si=881ce7d495724509" target="_blank">**listen!**</a>*)
@@ -45,6 +47,6 @@ Check my Spotify playlist, *<a href="https://open.spotify.com/playlist/6qYpvSPGe
 
 <div align="justify">
 
-Loading...
+*Loading...*
 
 <br />
