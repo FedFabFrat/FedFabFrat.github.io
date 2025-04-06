@@ -89,6 +89,11 @@ document.title = "Research"
 
 *Status: review of first draft*
 
+<details close>
+<summary>*Abstract*</summary> What are the job multipliers of the green manufacturing re-industrialization? We tackle this question by combining green manufacturing production data with regional employment shares of 2-digit manufacturing industries. This results in a measure of green manufacturing penetration, which we relate to regional employment in manufacturing and non-manufacturing sectors in a long-difference model. To address endogeneity in regional green penetration, we exploit a shift-share instrument that exploits aggregate technological flows. Green penetration positively affects regional employment in manufacturing and non-manufacturing sectors. These results are homogeneous along the regional skill level and the employment in manufacturing technology's intensity. Instead, STEM professions' presence unveils heterogeneous patterns. Further, we extend these findings by applying an alternative estimation strategy that exploits large shocks to green penetration and performing an empirical policy evaluation exercise by assessing the effectiveness of the Just Transition Fund programme. Lastly, we construct a similar brown penetration measure and identify region specialized in it. We find that they still benefit from a green expansion.
+</details>
+
+
 <br />
 
 **(Sub)National Identity and Tax Evasion**, *with* <a href="https://sites.google.com/view/francesco-barilari/home" target="_blank">*Francesco Barilari*</a>, <a href="https://sites.google.com/view/francescacalamunci/home" target="_blank">*Francesca Calamunci*</a> *and* <a href="https://sites.google.com/view/diegozambiasi/home" target="_blank">*Diego Zambiasi*</a>
