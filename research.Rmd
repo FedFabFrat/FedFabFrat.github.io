@@ -95,6 +95,10 @@ document.title = "Research"
 
 *Status: writing first draft*
 
+<details close>
+<summary>*Abstract*</summary> This paper examines how subnational identity and political ideology shape tax compliance, focusing on the role of the Northern League in Italy. As a federalist and anti-establishment party, it has historically promoted narratives against national taxation. We analyze its impact on tax compliance by studying evasion of the national TV tax (RAI license fee), leveraging a staggered difference-in-differences (DiD) approach with the doubly-robust Callaway and Sant’Anna estimator. Our findings show that the mere participation of the Northern League in local elections significantly increases tax evasion of 0.22%, even in the absence of an electoral victory. To disentangle the underlying mechanisms, we first ask whether the effect is driven by populism or federalism, distinguishing between anti-establishment rhetoric and opposition to national taxation. Second, we examine media exposure, assessing how partisan TV  and national newspaper exposure amplify tax resistance. Third, we consider grassroots mobilization, looking at how local anti-tax campaigns directly engage citizens. Finally, we analyze territorial identity and socioeconomic heterogeneity, exploring how regional ties and economic conditions shape responses.
+</details>
+
 <br />
 
 **Organised crime and human capital, within-city evidence from Italy** 
