@@ -33,20 +33,10 @@ library(fontawesome)
 
 * *Un mare in luce*, (*<a href="https://open.spotify.com/intl-it/track/5UCq9hVUu7ryf1KGRMrpQ5?si=600dc134ea864acc" target="_blank">**listen!**</a>*)
 
-Check my Spotify playlist, *<a href="https://open.spotify.com/playlist/6qYpvSPGedMFXl6rZiqxiK?si=ced1e59686d54d84" target="_blank">**Wolven Storm**</a>*
+* *Punchin In A Dream*, (*<a href="https://open.spotify.com/intl-it/track/5PtEpuVX03k9bOUwilL5EO?si=0473b07a0aae4d37" target="_blank">**listen!**</a>*)
+
+Check my Spotify *<a href="https://open.spotify.com/playlist/6qYpvSPGedMFXl6rZiqxiK?si=ced1e59686d54d84" target="_blank">**playlist!**</a>*
 
 <br />
 
 
-<div align="center">
-# Paintings 
-<div>
-
-
-****
-
-<div align="justify">
-
-*Loading...*
-
-<br />
