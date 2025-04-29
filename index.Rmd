@@ -16,7 +16,7 @@ document.title = "Home"
 
 <br />
 
-I am a Researcher at the <a href="https://www.feem.it/" target="_blank">Fondazione Eni Enrico Mattei</a>. I obtained a PhD in Economics at the <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a> under the supervision of Prof. <a href="https://nicolamastrorocco.com/" target="_blank">Nicola Mastrorocco</a> and of Prof <a href="https://marvinsuesse.com/" target="_blank">Marvin Suesse</a>. 
+I am a Researcher at the <a href="https://www.feem.it/" target="_blank">Fondazione Eni Enrico Mattei</a>. I obtained a PhD in Economics at the <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a> under the supervision of Prof. <a href="https://nicolamastrorocco.com/" target="_blank">Nicola Mastrorocco</a>. 
 
 My research interests revolve around Political Economics, Labor Economics and Micro-econometrics. I am particularly focused on the political and labour markets effects of the green transition and on the political economy of crime. I am enthusiast about coding, using programming and statistical software such as STATA, Python and R. Beyond economics, I like basketball, football, playing ukulele, videogames and digital painting.
 
@@ -51,7 +51,7 @@ This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Downloa
 
 <br />
 
-I am a Researcher at the <a href="https://www.feem.it/" target="_blank">Fondazione Eni Enrico Mattei</a>. I obtained a PhD in Economics at the <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a> under the supervision of Prof. <a href="https://nicolamastrorocco.com/" target="_blank">Nicola Mastrorocco</a> and of Prof <a href="https://marvinsuesse.com/" target="_blank">Marvin Suesse</a>. 
+I am a Researcher at the <a href="https://www.feem.it/" target="_blank">Fondazione Eni Enrico Mattei</a>. I obtained a PhD in Economics at the <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a> under the supervision of Prof. <a href="https://nicolamastrorocco.com/" target="_blank">Nicola Mastrorocco</a>. 
 
 My research interests revolve around Political Economics, Labor Economics and Micro-econometrics. I am particularly focused on the political and labour markets effects of the green transition and on the political economy of crime. I am enthusiast about coding, using programming and statistical software such as STATA, Python and R. Beyond economics, I like basketball, football, playing ukulele, videogames and digital painting.
 
