@@ -26,6 +26,21 @@ document.title = "Research"
 
 <br />
 
+**The Civic Side of Tax Compliance: Evidence from Italy**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>
+
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0165176525001831" target="_blank">*Economics letters*</a> *(2025)*
+
+<details close>
+<summary>*Abstract*</summary> This study validates TV fee compliance as a proxy for civic capital in Italy. Using municipality-level
+data, we show that it strongly correlates with traditional social capital measures such as voluntary
+associations, referenda, and European elections turnout. The analysis confirms its reliability both at
+municipal and provincial levels. TV fee compliance provides a scalable, objective, and timely indicator,
+particularly useful for researchers to examine the socio-economic dynamics of civic capital and its
+implications for institutional performance and economic development.
+</details>
+
+<br />
+
 
 <br />
 
@@ -48,20 +63,6 @@ document.title = "Research"
 
 <br />
 
-**The Civic Side of Tax Compliance: Evidence from Italy**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>
-
-*Status: conditionally accepted at Economics Letters*
-
-<details close>
-<summary>*Abstract*</summary> This study validates TV fee compliance as a proxy for civic capital in Italy. Using municipality-level
-data, we show that it strongly correlates with traditional social capital measures such as voluntary
-associations, referenda, and European elections turnout. The analysis confirms its reliability both at
-municipal and provincial levels. TV fee compliance provides a scalable, objective, and timely indicator,
-particularly useful for researchers to examine the socio-economic dynamics of civic capital and its
-implications for institutional performance and economic development.
-</details>
-
-<br />
 
 **Does Green Re-industrialization Pay off? Impacts on Employment, Wages and Productivity**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
 
