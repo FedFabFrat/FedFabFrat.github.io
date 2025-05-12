@@ -16,16 +16,6 @@ document.title = "Research"
 <br />
 
 
-**Setting an example: political leaders’ cues and health behavior in the early stages of the COVID-19 pandemic in Mexico**, *with* <a href="https://sites.google.com/view/brunomorando/home" target="_blank">*Bruno Morando*</a> *and* <a href="https://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1" target="_blank">*Luciano Ayala Cantu*</a>
-
-<a href="https://onlinelibrary.wiley.com/doi/10.1111/lamp.12223" target="_blank">*Latin American Policy*</a> *(2021)*
-
-<details close>
-<summary>*Abstract*</summary> How do political leaders’ cues affect citizen behavior regarding a new and complex issue? We address this question in the context of the early stages of the Covid‐19 pandemic in Mexico, using electoral outcomes and municipal‐level mobility data from Facebook's Movement Range Maps. In March 2020, Mexico's president downplayed constantly the severity of the coming health crisis by continuing his political rallies throughout the country and encouraging people to leave their homes. Using an event‐study analysis, we find that, after the first press conference where his government declared mobility restrictions were not yet necessary, on March 13, citizens’ geographic mobility in pro‐government municipalities was higher than in cities where support for the president was less strong. Our results are robust to several specifications and definitions of political support. Moreover, we find evidence that our results are driven by cities with higher media penetration, which implies that they can be attributed to people's reactions to the president's cues rather than to systematic differences in the preferences of his supporters.
-</details>
-
-<br />
-
 **The Civic Side of Tax Compliance: Evidence from Italy**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165176525001831" target="_blank">*Economics letters*</a> *(2025)*
@@ -37,6 +27,16 @@ associations, referenda, and European elections turnout. The analysis confirms i
 municipal and provincial levels. TV fee compliance provides a scalable, objective, and timely indicator,
 particularly useful for researchers to examine the socio-economic dynamics of civic capital and its
 implications for institutional performance and economic development.
+</details>
+
+<br />
+
+**Setting an example: political leaders’ cues and health behavior in the early stages of the COVID-19 pandemic in Mexico**, *with* <a href="https://sites.google.com/view/brunomorando/home" target="_blank">*Bruno Morando*</a> *and* <a href="https://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1" target="_blank">*Luciano Ayala Cantu*</a>
+
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/lamp.12223" target="_blank">*Latin American Policy*</a> *(2021)*
+
+<details close>
+<summary>*Abstract*</summary> How do political leaders’ cues affect citizen behavior regarding a new and complex issue? We address this question in the context of the early stages of the Covid‐19 pandemic in Mexico, using electoral outcomes and municipal‐level mobility data from Facebook's Movement Range Maps. In March 2020, Mexico's president downplayed constantly the severity of the coming health crisis by continuing his political rallies throughout the country and encouraging people to leave their homes. Using an event‐study analysis, we find that, after the first press conference where his government declared mobility restrictions were not yet necessary, on March 13, citizens’ geographic mobility in pro‐government municipalities was higher than in cities where support for the president was less strong. Our results are robust to several specifications and definitions of political support. Moreover, we find evidence that our results are driven by cities with higher media penetration, which implies that they can be attributed to people's reactions to the president's cues rather than to systematic differences in the preferences of his supporters.
 </details>
 
 <br />
