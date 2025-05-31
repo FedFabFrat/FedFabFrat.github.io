@@ -88,9 +88,19 @@ implications for institutional performance and economic development.
 
 <br />
 
+**The Local Job Multipliers of Green Re-industrialization**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+
+*Status: submitted*
+
+<details close>
+<summary>*Abstract*</summary> What are the job multipliers of the green industrialization? We tackle this question within EU regions over the period 2003-2017, building a novel measure of green manufacturing penetration that combines green production and regional employment data. We estimate local job multipliers of green penetration in a long-difference model, using a shift-share instrument that exploits plausibly exogenous changes in non-EU green innovation. We find that a 3-years change in green penetration per worker increases the employment-to-active population ratio by 0.11 pp. The effect is: persistent both in manufacturing and outside manufacturing; halved by agglomeration effects that increase the labour market tightness; stronger for  workers with high and low-education; and present also in regions specialized in polluting industries. When focusing on large shocks in a staggered DiD design, we find ten times larger effects, particularly in earlier periods.
+</details>
+
 <br />
 
-### <ins> Work in progress </ins>
+<br />
+
+### <ins> Selected work in progress </ins>
 
 <br />
 
@@ -98,30 +108,12 @@ implications for institutional performance and economic development.
 
 *Status: review of final draft*
 
-<details close>
-<summary>*Abstract*</summary> This paper investigates the impact that the simultaneity of national and local elections has on the local electoral stage, in terms of civic and political participation, political competition and electoral results. Methodologically, I employ a difference-in-differences design that exploits the staggered nature of the local elections in Italy, where some municipalities experience the simultaneity, while the rest do not. Voters' participation is positively impacted, with homogeneous effects along the gender dimension. Political participation mildly increases, while its competition is affected in an opposite way. Mayors winning in this simultaneous setting are more likely to have previous office experience. Lastly, using the simultaneity as a sample restriction, I document the existence of a split-ticket voting behaviour. In this regard, I find support for the divided government hypothesis as a mechanism.
-</details>
-
-<br />
-
-**The Local Job Multipliers of Green Re-industrialization**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
-
-*Status: review of final draft*
-
-<details close>
-<summary>*Abstract*</summary> What are the job multipliers of the green manufacturing re-industrialization? We tackle this question by combining green manufacturing production data with regional employment shares of 2-digit manufacturing industries. This results in a measure of green manufacturing penetration, which we relate to regional employment in manufacturing and non-manufacturing sectors in a long-difference model. To address endogeneity in regional green penetration, we exploit a shift-share instrument that exploits aggregate technological flows. Green penetration positively affects regional employment in manufacturing and non-manufacturing sectors. These results are homogeneous along the regional skill level and the employment in manufacturing technology's intensity. Instead, STEM professions' presence unveils heterogeneous patterns. Further, we extend these findings by applying an alternative estimation strategy that exploits large shocks to green penetration and performing an empirical policy evaluation exercise by assessing the effectiveness of the Just Transition Fund programme. Lastly, we construct a similar brown penetration measure and identify region specialized in it. We find that they still benefit from a green expansion.
-</details>
-
 
 <br />
 
 **(Sub)National Identity and Tax Evasion**, *with* <a href="https://sites.google.com/view/francesco-barilari/home" target="_blank">*Francesco Barilari*</a>, <a href="https://sites.google.com/view/francescacalamunci/home" target="_blank">*Francesca Calamunci*</a> *and* <a href="https://sites.google.com/view/diegozambiasi/home" target="_blank">*Diego Zambiasi*</a>
 
 *Status: writing first draft*
-
-<details close>
-<summary>*Abstract*</summary> This paper examines how subnational identity and political ideology shape tax compliance, focusing on the role of the Northern League in Italy. As a federalist and anti-establishment party, it has historically promoted narratives against national taxation. We analyze its impact on tax compliance by studying evasion of the national TV tax (RAI license fee), leveraging a staggered difference-in-differences (DiD) approach with the doubly-robust Callaway and Sant’Anna estimator. Our findings show that the mere participation of the Northern League in local elections significantly increases tax evasion of 0.22%, even in the absence of an electoral victory. To disentangle the underlying mechanisms, we first ask whether the effect is driven by populism or federalism, distinguishing between anti-establishment rhetoric and opposition to national taxation. Second, we examine media exposure, assessing how partisan TV  and national newspaper exposure amplify tax resistance. Third, we consider grassroots mobilization, looking at how local anti-tax campaigns directly engage citizens. Finally, we analyze territorial identity and socioeconomic heterogeneity, exploring how regional ties and economic conditions shape responses.
-</details>
 
 <br />
 
