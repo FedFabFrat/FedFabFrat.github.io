@@ -55,7 +55,7 @@ implications for institutional performance and economic development.
 
 *<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431634" target="_blank">**Most recent draft**</a>*
 
-*Status: Revised and Resubmitted at The Journal of Law, Economics & Organization*
+*Status: Conditionally accepted at The Journal of Law, Economics & Organization*
 
 <details close>
 <summary>*Abstract*</summary> What is the long-term effect of organised crime presence on civic capital? By leveraging novel tax compliance and organised crime data, this study investigates this question within the Italian landscape. We exploit the forced resettlement law that compelled organised crime members living in the South of Italy to resettle in the Centre-North area of the country. Employing difference-in-differences reduced form and two-stage least squares estimation strategies, estimates reveal that sustained exposure to mafia presence reduces TV tax compliance. Exploring possible mechanisms, we find that municipalities exposed to the forced resettlement laws show more firms in strategic sectors for organised crime infiltration, and more episodes of extortion and labour racketeering. Moreover, heterogeneous analysis shows that municipalities with a younger population, less home ownership, and more readership drive the main effects, while provincial migration does not. 
