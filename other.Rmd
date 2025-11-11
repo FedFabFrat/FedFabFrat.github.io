@@ -17,23 +17,17 @@ library(fontawesome)
 
 ### `r fa("music")` A few songs I am into recently
 
-* *Rebel Heart*, (*<a href="https://open.spotify.com/intl-it/track/5xvjnyg8FHPGRSkbAhjJh6?si=498781e3ff2149a4" target="_blank">**listen!**</a>*)
+* *Ti odio e ti amo (come Milano)*, (*<a href="https://open.spotify.com/intl-it/track/1O7mY0f08VEsAjH9Zgx5pR?si=fe53a569baeb43da" target="_blank">**listen!**</a>*)
 
-* *Never Fade Away*, (*<a href="https://open.spotify.com/intl-it/track/1AslaQYl1cMb1ItQKmtJer?si=d6931f834ab04f3f" target="_blank">**listen!**</a>*), (*<a href="https://open.spotify.com/intl-it/track/6pV1lc8lIc8ARNB6KsZukt?si=67fde9522b624945" target="_blank">**listen this beautiful cover!**</a>*)
+* *An Evening I Will Not Forget*, (*<a href="https://open.spotify.com/intl-it/track/1yLSv3RVh0BzTnaGlTapsP?si=21bda830b7144223" target="_blank">**listen!**</a>*)
 
-* *Phantom Liberty*, (*<a href="https://open.spotify.com/intl-it/track/7hRLd8al1yptBLnvDpL2VC?si=c8266ae4d1e24285" target="_blank">**listen!**</a>*)
+* *Supersonic*, (*<a href="https://open.spotify.com/intl-it/track/4jJfa4mO5JjV9Tz2aAxE2M?si=7c87a4cbcc734af8" target="_blank">**listen!**</a>*)
 
-* *Cocktail Molotov*, (*<a href="https://open.spotify.com/intl-it/track/597xDoReZvNnlEoN0IVpVk?si=9241baedb68742bf" target="_blank">**listen!**</a>*)
+* *Live Forever*, (*<a href="https://open.spotify.com/intl-it/track/6TlQ5fbojNRuG0hPQMbxeW?si=adcf713813bc4be1" target="_blank">**listen!**</a>*)
 
-* *Heavy is the Crown*, (*<a href="https://open.spotify.com/intl-it/track/4TGZTPJ50VXfqCIEwf6Bmm?si=881ce7d495724509" target="_blank">**listen!**</a>*)
+* *Welcome Home, Son*, (*<a href="https://open.spotify.com/intl-it/track/6HTVZeVQ9J6Uiq6tHESxU9?si=1720d524f8ac47d4" target="_blank">**listen!**</a>*)
 
-* *Wasteland*, (*<a href="https://open.spotify.com/intl-it/track/5r9OlaHzqlOKkFAv0q5Gm3?si=3496fa1bb6b24164" target="_blank">**listen!**</a>*)
-
-* *Biblical Love*, (*<a href="https://open.spotify.com/intl-it/track/4WlGgwoZdNI96WPwsW6Nz5?si=4acfcfb5e0054f95" target="_blank">**listen!**</a>*)
-
-* *Un mare in luce*, (*<a href="https://open.spotify.com/intl-it/track/5UCq9hVUu7ryf1KGRMrpQ5?si=600dc134ea864acc" target="_blank">**listen!**</a>*)
-
-* *Punchin In A Dream*, (*<a href="https://open.spotify.com/intl-it/track/5PtEpuVX03k9bOUwilL5EO?si=0473b07a0aae4d37" target="_blank">**listen!**</a>*)
+* *The Sense of Me*, (*<a href="https://open.spotify.com/intl-it/track/6UlwiHrZ6bDGDVhBN35hNP?si=18a583bf37c44a8e" target="_blank">**listen!**</a>*)
 
 Check my Spotify *<a href="https://open.spotify.com/playlist/6qYpvSPGedMFXl6rZiqxiK?si=ced1e59686d54d84" target="_blank">**playlist!**</a>*
 

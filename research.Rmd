@@ -15,10 +15,12 @@ document.title = "Research"
 
 <br />
 
-**Eroding Civic Capital: How Persistent Organised Crime Diminishes Tax Compliance**, 
+***Eroding Civic Capital: How Persistent Organised Crime Diminishes Tax Compliance***, 
 *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>
 
-*The Journal of Law, Economics & Organization (forthcoming)*, doi: 10.1093/jleo/ewaf022
+***The Journal of Law, Economics & Organization (forthcoming)*** 
+
+doi: 10.1093/jleo/ewaf022
 
 <a href="Calamunci_Frattini_JLEO_last.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Updated draft</a>
 
@@ -29,9 +31,9 @@ document.title = "Research"
 <br />
 
 
-**The Civic Side of Tax Compliance: Evidence from Italy**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>
+***The Civic Side of Tax Compliance: Evidence from Italy***, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Calamunci*</a>
 
-*Economics letters (2025)*
+***Economics letters (2025)***
 
 <a href="https://doi.org/10.1016/j.econlet.2025.112346" target="_blank"> https://doi.org/10.1016/j.econlet.2025.112346 </a>
 
@@ -46,9 +48,9 @@ implications for institutional performance and economic development.
 
 <br />
 
-**Setting an example: political leaders’ cues and health behavior in the early stages of the COVID-19 pandemic in Mexico**, *with* <a href="https://sites.google.com/view/brunomorando/home" target="_blank">*Bruno Morando*</a> *and* <a href="https://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1" target="_blank">*Luciano Ayala Cantu*</a>
+***Setting an example: political leaders’ cues and health behavior in the early stages of the COVID-19 pandemic in Mexico***, *with* <a href="https://sites.google.com/view/brunomorando/home" target="_blank">*Bruno Morando*</a> *and* <a href="https://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1" target="_blank">*Luciano Ayala Cantu*</a>
 
-*Latin American Policy (2021)*
+***Latin American Policy (2021)***
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/lamp.12223" target="_blank"> https://doi.org/10.1111/lamp.12223 </a>
 
@@ -66,8 +68,20 @@ implications for institutional performance and economic development.
 
 <br />
 
+***Political Participation and Competition in Concurrent Elections***
 
-**Does Green Re-industrialization Pay off? Impacts on Employment, Wages and Productivity**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+*<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2025-15.pdf" target="_blank">**Most recent draft**</a>*
+
+*Status: Revise and Resubmit at * ***Public Choice***
+
+<details close>
+<summary>*Abstract*</summary> This paper investigates how concurrent national and local elections affect the local political participation and competition. Leveraging a quasi-experimental framework provided by Italy’s staggered electoral timing, the paper employs a difference-in-differences design. Estimates reveal that municipalities holding concurrent elections exhibit lower levels of local participation and competition. Moreover, the concurrent election increases participation by candidates with nationally-established parties, while decreases participation with independent parties. This further translates into a higher votes share for nationally-established parties and a consequent higher probability of election. Elected mayors tend to have lower education and experience in office, while they are more likely to be from the municipality they were elected in. Further, elected mayors are able to attract more intergovernmental transfers, without substantially affecting local spending patterns.
+</details>
+
+<br />
+
+
+***Does Green Re-industrialization Pay off? Impacts on Employment, Wages and Productivity***, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
 
 *<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2024-23-1.pdf" target="_blank">**Most recent draft**</a>*
 
@@ -79,7 +93,8 @@ implications for institutional performance and economic development.
 
 <br />
 
-**The Local Job Multipliers of Green Re-industrialization**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
+
+***The Local Job Multipliers of Green Industrialization***, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
 
 *<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2025-13.pdf" target="_blank">**Most recent draft**</a>* - *<a href="https://www.ifo.de/DocDL/cesifo1_wp11939.pdf" target="_blank">**CESifo working paper**</a>*
 
@@ -92,7 +107,8 @@ implications for institutional performance and economic development.
 
 <br />
 
-**Vaccines on the Move and the War on Polio**, *with* <a href="https://sites.google.com/view/lauramunozblanco/home?authuser=0" target="_blank">*Laura Muñoz Blanco*</a>
+
+***Vaccines on the Move and the War on Polio***, *with* <a href="https://sites.google.com/view/lauramunozblanco/home?authuser=0" target="_blank">*Laura Muñoz Blanco*</a>
 
 *<a href="https://exetereconomics.github.io/RePEc/dpapers/DP2403.pdf" target="_blank">**Most recent draft**</a>*
 
@@ -105,19 +121,7 @@ implications for institutional performance and economic development.
 <br />
 
 
-**Political Participation and Competition in Concurrent Elections** 
-
-*<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2025-15.pdf" target="_blank">**Most recent draft**</a>*
-
-*Status: submitted*
-
-<details close>
-<summary>*Abstract*</summary> This paper investigates how concurrent national and local elections affect the local political participation and competition. Leveraging a quasi-experimental framework provided by Italy’s staggered electoral timing, the paper employs a difference-in-differences design. Estimates reveal that municipalities holding concurrent elections exhibit lower levels of local participation and competition. Moreover, the concurrent election increases participation by candidates with nationally-established parties, while decreases participation with independent parties. This further translates into a higher votes share for nationally-established parties and a consequent higher probability of election. Elected mayors tend to have lower education and experience in office, while they are more likely to be from the municipality they were elected in. Further, elected mayors are able to attract more intergovernmental transfers, without substantially affecting local spending patterns.
-</details>
-
-<br />
-
-**Identity Rhetoric and Tax Evasion**, *with* <a href="https://sites.google.com/view/francesco-barilari/home" target="_blank">*Francesco Barilari*</a>, <a href="https://sites.google.com/view/francescacalamunci/home" target="_blank">*Francesca Calamunci*</a> *and* <a href="https://sites.google.com/view/diegozambiasi/home" target="_blank">*Diego Zambiasi*</a>
+***Identity Rhetoric and Tax Evasion***, *with* <a href="https://sites.google.com/view/francesco-barilari/home" target="_blank">*Francesco Barilari*</a>, <a href="https://sites.google.com/view/francescacalamunci/home" target="_blank">*Francesca Calamunci*</a> *and* <a href="https://sites.google.com/view/diegozambiasi/home" target="_blank">*Diego Zambiasi*</a>
 
 *<a href="https://download.ssrn.com/2025/8/12/5388466.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQC1udi0eVv8EX2xh21YKVIWRdCoBpoLVNw46HAmv62xmwIhAN8F3ShvBKugMZjv9Ze6sTHHT6SDnMDUh%2BlfOoG5HYhJKr0FCBQQBBoMMzA4NDc1MzAxMjU3Igx4jc6PZ0lv1bdBKFMqmgUVXc2F4nqcGSuUAZ8wlHXIyarjE47Scf8z4YXOAl1%2F00uIlp4dkoHWJH1OPhSD68EMMprXEkfiDf5CLIbSMAjG6iAJRgneKaz0uZFgfwkD0YLtewFK6XcGhzQwUQBE1hV%2FYhrpvYVTadUA0%2F7BvBCNzlQhCeIMGuRMuHKashhrLIsp36KtT27wNR%2FEc5g3NIfbvDNg6%2FfsptFG5Uz0A%2F0vcF8t6%2BN5Cja5RWNdp75P%2BvniKtL7ML5sd5BZtC56LNxngjReVZYbp7%2FfaH8%2FDd%2FMVU0DmeiHvrr5Nu2yAAMLh034y%2FdkOSCfGRpyehdtXMvzebg1nUj8UgqJbTPxpM7ykKVXpu8VJcL0CVN9K2od%2BeGPnylK2tcnZrH4OGETOYcxo7eg77hCaeXfDHnhYW0tz%2BCwPjKuSJh%2BdGNG48w19trlAV7x%2FbD70T5yDWDBdZvSkjHY%2FDwHVrRwTNQmq3MTiaupms6luuGi8FKCAy9Twwjm1fPYgJtNgFiGlMEeJ%2F%2BXsf%2ByFogvNZyNf%2F0F54GUwukeSbLatknGjC8bw8gOZDtXMNukMncQYxQIq0QPXaw6BcIHvjitVPw6HgOVIoFzQvWXARVUPEKhYEd7%2FTk3FpZ6WHxehRDLWyJsEvzThopmaQ8AHy%2FpujIMEeQBfYa3Fsog%2FKV88kcHA7Sl8wcFOYQgp052nmQvNgCtNU1t%2BGYnuwvLblPtWsiPFRHnls3TOzRzI6yyt8TtbwErmIaAOcdjSq7xbbaqBNemzjKyTr%2Fx%2BkPJB1EJCE4qPiiMvJWbxC0%2F7ewg4kF4iX%2FvNdloxlXnC3F1nPygP8wFWMnbo9FFHgBy9qDlhGgybd7HzSRORCpGpN5CfA5qdvbNP1jmG1Vao19TKPLfYC0wnL3sxAY6sAHhhDM83DuIB5uQ9sEpNx8mbcmczqsxWigQ4stHT%2BDf0QNUiX694HN0YfwU4pP%2BDlrYTL77V9yZfn1Uc0F%2F5tO0BC3dR15GNDSfHeYLuwdC5EnOARfztB5QAWNfoE8yx9Swx0FvpCeTyog8leoi1Dex3dHvNniKudUaGK6uDVvulSZwUr5AzJULcGz40axVNTH9MmTtHT814rOiEz4C0OFQWqUFizLZW285XJryZ1b3IA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250812T114650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWEROFSUCHZ%2F20250812%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c04bbb49c6fd2755bed7affd2a0b50ce90886e2e63e26eecee6351ea5fd4e918&abstractId=5388466" target="_blank">**Most recent draft**</a>*
 
@@ -136,19 +140,19 @@ implications for institutional performance and economic development.
 
 <br />
 
-**Wage and skills gaps for green jobs in Europe**, *with* <a href="https://leannecass.com/" target="_blank">*Leanne Cass*</a>, <a href="https://aureliensaussay.github.io/" target="_blank">*Aurélien Saussay*</a>, <a href="https://personal.lse.ac.uk/satom/" target="_blank">*Misato Sato*</a> *and*  <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a> 
+***Wage and skills gaps for green jobs in Europe***, *with* <a href="https://leannecass.com/" target="_blank">*Leanne Cass*</a>, <a href="https://aureliensaussay.github.io/" target="_blank">*Aurélien Saussay*</a>, <a href="https://personal.lse.ac.uk/satom/" target="_blank">*Misato Sato*</a> *and*  <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a> 
 
 *Status: writing first draft*
 
 <br />
 
-**Material saving technologies**, *with* <a href="https://sites.google.com/view/andrea-bastianin/home?authuser=0" target="_blank">*Andrea Bastianin*</a>, <a href="https://sites.google.com/view/paolo-castelnovo" target="_blank">*Paolo Castelnovo*</a>, *Luqman Shamsudin*</a> *and*  <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a> 
+***Material saving technologies***, *with* <a href="https://sites.google.com/view/andrea-bastianin/home?authuser=0" target="_blank">*Andrea Bastianin*</a>, <a href="https://sites.google.com/view/paolo-castelnovo" target="_blank">*Paolo Castelnovo*</a>, *Luqman Shamsudin*</a> *and*  <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a> 
 
 *Status: writing first draft*
 
 <br />
 
-**Organised crime and human capital, within-city evidence from Italy** 
+***Organised crime and human capital, within-city evidence from Italy*** 
 
 *Status: resting*
 
