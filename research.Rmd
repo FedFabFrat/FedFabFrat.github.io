@@ -15,6 +15,21 @@ document.title = "Research"
 
 <br />
 
+**Concurrent Elections, Candidate Entry, and Local Competition**
+
+(Updated draft coming soon)
+
+Status: Conditionally accepted at ***Public Choice***
+
+<details close>
+<summary>*Abstract*</summary> This paper investigates how the institutional timing of elections shapes local candidate entry and political competition. Exploiting quasi-random variation in Italy’s staggered national–local concurrent elections, this paper employs a difference-in-differences design. Estimates reveal that concurrency reduces the number of mayoral candidates and discourages participation by independent
+lists, increasing the relative presence of nationally established parties. These changes in candidate composition are associated with higher vote shares and higher probabilities of victory of about ten percentage points for nationally affiliated candidates, alongside a reduction in overall political competition. Concurrent elections also affect who holds office: mayors elected in such contests
+are more likely to have lower education and less prior experience. At the same time, while these mayors do not alter overall spending or revenue trajectories, they secure greater intergovernmental
+transfers, collect taxes more efficiently and increase spending in specific categories.
+</details>
+
+<br />
+
 **Eroding Civic Capital: How Persistent Organised Crime Diminishes Tax Compliance**, 
 *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Maria Calamunci*</a>
 
@@ -67,18 +82,6 @@ implications for institutional performance and economic development.
 
 <br />
 
-**Political Participation and Competition in Concurrent Elections**
-
-(<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2025-15.pdf" target="_blank">Most recent draft</a>)
-
-Status: Revised and Resubmitted at ***Public Choice***
-
-<details close>
-<summary>*Abstract*</summary> This paper investigates how concurrent national and local elections affect the local political participation and competition. Leveraging a quasi-experimental framework provided by Italy’s staggered electoral timing, the paper employs a difference-in-differences design. Estimates reveal that municipalities holding concurrent elections exhibit lower levels of local participation and competition. Moreover, the concurrent election increases participation by candidates with nationally-established parties, while decreases participation with independent parties. This further translates into a higher votes share for nationally-established parties and a consequent higher probability of election. Elected mayors tend to have lower education and experience in office, while they are more likely to be from the municipality they were elected in. Further, elected mayors are able to attract more intergovernmental transfers, without substantially affecting local spending patterns.
-</details>
-
-<br />
-
 
 **Does Green Re-industrialization Pay off? Impacts on Employment, Wages and Productivity**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>   
 
@@ -98,7 +101,7 @@ Status: Revised and Resubmitted at ***Public Choice***
 (<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2025-13-1.pdf" target="_blank">Most recent draft</a>) (<a href="https://www.ifo.de/DocDL/cesifo1_wp11939.pdf" target="_blank">CESifo working paper</a>)
 
 
-*Status: submitted*
+*Status: to submit*
 
 <details close>
 <summary>*Abstract*</summary> What are the job multipliers of the green industrialization? We tackle this question within EU regions over the period 2003-2017, building a novel measure of green manufacturing penetration that combines green production and regional employment data. We estimate local job multipliers of green penetration in a long-difference model, using a shift-share instrument that exploits plausibly exogenous changes in non-EU green innovation. We find that a 3-years change in green penetration per worker increases the employment-to-active population ratio by 0.11 pp. The effect is: persistent both in manufacturing and outside manufacturing; halved by agglomeration effects that increase the labour market tightness; stronger for  workers with high and low-education; and present also in regions specialized in polluting industries. When focusing on large shocks in a staggered DiD design, we find ten times larger effects, particularly in earlier periods.
