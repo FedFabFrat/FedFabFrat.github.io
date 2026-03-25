@@ -19,7 +19,7 @@ Applied economist working on:
 - Political competition, participation and identity-based rhetoric
 - Green transition, labour markets, and regional development
 
-This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Download CV as PDF">**CV**</a>, while this is a detailed outline of my current <a href="https://fedfabfrat.github.io/research.html">**research projects**</a>, and this is a list of the <a href="https://fedfabfrat.github.io/teaching.html">**courses**</a> I taught.
+This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Download CV as PDF">CV</a>, while this is a detailed outline of my current <a href="https://fedfabfrat.github.io/research.html">research projects</a>, and this is a list of the <a href="https://fedfabfrat.github.io/teaching.html">courses</a> I taught.
 
 <br />
 
