@@ -1,0 +1,34 @@
+---
+pagetitle: "Other"
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+
+<div align="center">
+# Music
+<div>
+
+
+****
+
+<div align="justify">
+
+### `r fa("music")` A few songs I am into recently
+
+* *Ti odio e ti amo (come Milano)*, (*<a href="https://open.spotify.com/intl-it/track/1O7mY0f08VEsAjH9Zgx5pR?si=fe53a569baeb43da" target="_blank">**listen!**</a>*)
+
+* *An Evening I Will Not Forget*, (*<a href="https://open.spotify.com/intl-it/track/1yLSv3RVh0BzTnaGlTapsP?si=21bda830b7144223" target="_blank">**listen!**</a>*)
+
+* *Supersonic*, (*<a href="https://open.spotify.com/intl-it/track/4jJfa4mO5JjV9Tz2aAxE2M?si=7c87a4cbcc734af8" target="_blank">**listen!**</a>*)
+
+* *Live Forever*, (*<a href="https://open.spotify.com/intl-it/track/6TlQ5fbojNRuG0hPQMbxeW?si=adcf713813bc4be1" target="_blank">**listen!**</a>*)
+
+* *Welcome Home, Son*, (*<a href="https://open.spotify.com/intl-it/track/6HTVZeVQ9J6Uiq6tHESxU9?si=1720d524f8ac47d4" target="_blank">**listen!**</a>*)
+
+* *The Sense of Me*, (*<a href="https://open.spotify.com/intl-it/track/6UlwiHrZ6bDGDVhBN35hNP?si=18a583bf37c44a8e" target="_blank">**listen!**</a>*)
+
+Check my Spotify *<a href="https://open.spotify.com/playlist/6qYpvSPGedMFXl6rZiqxiK?si=ced1e59686d54d84" target="_blank">**playlist!**</a>*
+
+<br />

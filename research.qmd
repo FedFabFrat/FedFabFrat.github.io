@@ -1,0 +1,171 @@
+---
+pagetitle: "Research"
+---
+
+<div align="center">
+# Research
+<div>
+
+
+****
+
+<div align="justify">
+
+### <ins> Peer Reviewed Publications </ins>
+
+<br />
+
+**Concurrent Elections, Candidate Entry, and Local Competition**
+
+(Updated draft coming soon)
+
+Status: Conditionally accepted at ***Public Choice***
+
+<details close>
+<summary>*Abstract*</summary> This paper investigates how the institutional timing of elections shapes local candidate entry and political competition. Exploiting quasi-random variation in Italy's staggered national–local concurrent elections, this paper employs a difference-in-differences design. Estimates reveal that concurrency reduces the number of mayoral candidates and discourages participation by independent
+lists, increasing the relative presence of nationally established parties. These changes in candidate composition are associated with higher vote shares and higher probabilities of victory of about ten percentage points for nationally affiliated candidates, alongside a reduction in overall political competition. Concurrent elections also affect who holds office: mayors elected in such contests
+are more likely to have lower education and less prior experience. At the same time, while these mayors do not alter overall spending or revenue trajectories, they secure greater intergovernmental
+transfers, collect taxes more efficiently and increase spending in specific categories.
+</details>
+
+<br />
+
+**Eroding Civic Capital: How Persistent Organised Crime Diminishes Tax Compliance**,
+*with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Maria Calamunci*</a>
+
+***The Journal of Law, Economics & Organization (2026)***
+
+
+(<a href="https://doi.org/10.1093/jleo/ewaf022" target="_blank"> https://doi.org/10.1093/jleo/ewaf022 </a>) (<a href="Calamunci_Frattini_JLEO.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted version</a>)
+
+<details close>
+<summary>*Abstract*</summary> What is the long-term effect of organised crime presence on civic capital? By leveraging novel tax compliance and organised crime data, this study investigates this question within the Italian landscape from the 1950s to the 2000s. We exploit the forced resettlement law that compelled organised crime members living in the South of Italy to resettle in the Centre-North area of the country. Employing a difference-in-differences estimation strategy, estimates reveal that sustained exposure to mafia presence reduces TV tax compliance. Exploring possible mechanisms, we find that municipalities exposed to the forced resettlement law show more firms in strategic sectors for organised crime infiltration, and more episodes of extortion and labour racketeering.
+</details>
+
+<br />
+
+
+**The Civic Side of Tax Compliance: Evidence from Italy**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Maria Calamunci*</a>
+
+***Economics letters (2025)***
+
+(<a href="https://doi.org/10.1016/j.econlet.2025.112346" target="_blank"> https://doi.org/10.1016/j.econlet.2025.112346 </a>) (<a href="Calamunci_Frattini_EconLett.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted version</a>)
+
+<details close>
+<summary>*Abstract*</summary> This study validates TV fee compliance as a proxy for civic capital in Italy. Using municipality-level
+data, we show that it strongly correlates with traditional social capital measures such as voluntary
+associations, referenda, and European elections turnout. The analysis confirms its reliability both at
+municipal and provincial levels. TV fee compliance provides a scalable, objective, and timely indicator,
+particularly useful for researchers to examine the socio-economic dynamics of civic capital and its
+implications for institutional performance and economic development.
+</details>
+
+<br />
+
+**Setting an example: political leaders' cues and health behavior in the early stages of the COVID-19 pandemic in Mexico**, *with* <a href="https://sites.google.com/view/brunomorando/home" target="_blank">*Bruno Morando*</a> *and* <a href="https://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1" target="_blank">*Luciano Ayala Cantu*</a>
+
+***Latin American Policy (2021)***
+
+(<a href="https://onlinelibrary.wiley.com/doi/10.1111/lamp.12223" target="_blank"> https://doi.org/10.1111/lamp.12223 </a>)
+
+<details close>
+<summary>*Abstract*</summary> How do political leaders' cues affect citizen behavior regarding a new and complex issue? We address this question in the context of the early stages of the Covid‐19 pandemic in Mexico, using electoral outcomes and municipal‐level mobility data from Facebook's Movement Range Maps. In March 2020, Mexico's president downplayed constantly the severity of the coming health crisis by continuing his political rallies throughout the country and encouraging people to leave their homes. Using an event‐study analysis, we find that, after the first press conference where his government declared mobility restrictions were not yet necessary, on March 13, citizens' geographic mobility in pro‐government municipalities was higher than in cities where support for the president was less strong. Our results are robust to several specifications and definitions of political support. Moreover, we find evidence that our results are driven by cities with higher media penetration, which implies that they can be attributed to people's reactions to the president's cues rather than to systematic differences in the preferences of his supporters.
+</details>
+
+<br />
+
+
+<br />
+
+
+### <ins> Working Papers </ins>
+
+<br />
+
+
+**Does Green Re-industrialization Pay off? Impacts on Employment, Wages and Productivity**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>
+
+(<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2024-23-1.pdf" target="_blank">Most recent draft</a>)
+
+*Status: submitted*
+
+<details close>
+<summary> *Abstract* </summary> What are the consequences of green industrialization on the labour market and industry dynamics? This paper tackles and quantifies this question by employing observable and reliable data on green manufacturing production for an extensive set of EU countries and 4-digit manufacturing industries for over a decade. First, at a descriptive level, this paper documents that green production is mostly concentrated in a few countries and industries. Moreover, potentially green industries outperform the others in terms of employment, average wages, value added and productivity. Second, when controlling for other drivers of the labour market and industry dynamics in the econometric analysis, it finds that employment and value added grow faster in potentially green sectors, particularly at the intensive margin. In contrast, average wages and labour productivity remain unchanged. Then, to purge the analysis from possible endogeneity, this paper employs two shift-share instruments. These econometric exercises corroborate the previous findings. An increase in 1 million€ of sold green production is associated with an increase of 0.03% in employment and value added, respectively. The analysis is extended with different heterogeneity exercises and robustness checks.
+</details>
+
+<br />
+
+
+**The Local Job Multipliers of Green Industrialization**, *with* <a href="https://sites.google.com/view/fbontadini/home" target="_blank">*Filippo Bontadini*</a>, <a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank">*Italo Colantone*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>
+
+(<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2025-13-1.pdf" target="_blank">Most recent draft</a>) (<a href="https://www.ifo.de/DocDL/cesifo1_wp11939.pdf" target="_blank">CESifo working paper</a>)
+
+
+*Status: to submit*
+
+<details close>
+<summary>*Abstract*</summary> What are the job multipliers of the green industrialization? We tackle this question within EU regions over the period 2003-2017, building a novel measure of green manufacturing penetration that combines green production and regional employment data. We estimate local job multipliers of green penetration in a long-difference model, using a shift-share instrument that exploits plausibly exogenous changes in non-EU green innovation. We find that a 3-years change in green penetration per worker increases the employment-to-active population ratio by 0.11 pp. The effect is: persistent both in manufacturing and outside manufacturing; halved by agglomeration effects that increase the labour market tightness; stronger for workers with high and low-education; and present also in regions specialized in polluting industries. When focusing on large shocks in a staggered DiD design, we find ten times larger effects, particularly in earlier periods.
+</details>
+
+<br />
+
+
+**Vaccines on the Move and the War on Polio**, *with* <a href="https://sites.google.com/view/lauramunozblanco/home?authuser=0" target="_blank">*Laura Muñoz Blanco*</a>
+
+(<a href="https://exetereconomics.github.io/RePEc/dpapers/DP2403.pdf" target="_blank">Most recent draft</a>)
+
+*Status: submitted*
+
+<details close>
+<summary>*Abstract*</summary> The rising number of refugees and internally displaced people (IDPs) presents new challenges for vaccine distribution and the spread of diseases. How do forcibly displaced population inflows affect infectious diseases incidence in host communities? Can a policy intervention that vaccinates children during their migration mitigate the impacts? To answer these questions, we examine the Pakistani mass internal displacement from the conflict-affected Federally Administered Tribal Areas in 2008. Using a difference-in-differences approach, we compare new polio cases in districts near and far from the conflict zone before and after 2008. The spatial distribution of districts relative to the historical region of Pashtunistan allows us to design a sample of comparable units. We show that a standard deviation increase in predicted IDP inflow leads to a rise in the new polio cases per 100,000 inhabitants. Poorer vaccination levels among IDP compared to native children in host communities are one of the main mechanisms. Implementing a vaccination policy targeting IDP children during their migration journey helps bridge the vaccination gap, with important welfare implications.
+</details>
+
+<br />
+
+
+**Identity Rhetoric and Tax Evasion**, *with* <a href="https://sites.google.com/view/francesco-barilari/home" target="_blank">*Francesco Barilari*</a>, <a href="https://sites.google.com/view/francescacalamunci/home" target="_blank">*Francesca Maria Calamunci*</a> *and* <a href="https://sites.google.com/view/diegozambiasi/home" target="_blank">*Diego Zambiasi*</a>
+
+(<a href="https://ssrn.com/abstract=5388466" target="_blank">Most recent draft</a>)
+
+
+*Status: submitted*
+
+<details close>
+<summary>*Abstract*</summary> This paper studies how identity-based political rhetoric can erode tax compliance. We focus on Italy's Northern League (NL), a regionalist party that framed national taxes as an illegitimate imposition by a distant and exploitative central government. Exploiting the staggered local entry of NL into municipal elections between 1990 and 2015, we implement a difference-in-differences design to estimate the causal effect of exposure to NL's rhetoric on tax compliance. We find that NL participation leads to a significant decline in payment of the national TV license fee, a symbolically charged and centrally collected tax. The effect is absent for local taxes and unrelated parties like Forza Italia, and is not driven by NL's control of local government. The decline is amplified in municipalities with higher initial support for NL, greater exposure to its television channel, and more intense local campaign activity. The effect is also stronger in economically vulnerable communities. Taken together, the evidence points to a rhetorical mechanism: repeated exposure to a narrative that casts national taxation as cultural exploitation weakens compliance with central fiscal obligations.
+</details>
+
+<br />
+
+**Induced Innovation in Critical Mineral Saving Technologies**, *with* <a href="https://sites.google.com/view/andrea-bastianin/home?authuser=0" target="_blank">*Andrea Bastianin*</a>, <a href="https://sites.google.com/view/paolo-castelnovo" target="_blank">*Paolo Castelnovo*</a>, *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>
+
+(<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2026-05.pdf" target="_blank">Most recent draft</a>)
+
+*Status: to submit*
+
+<details close>
+<summary>*Abstract*</summary> This paper develops a novel text-based approach to identify CRM-saving innovation using patent data and studies how mineral price signals shape the direction of technological change. Using patent data from 1978–2020, we distinguish technologies that rely on CRMs from those that explicitly aim to reduce their use through efficiency improvements, substitution, or recycling. We provide evidence consistent with the induced-innovation hypothesis: higher mineral prices reallocate inventive effort toward CRM-saving technologies, while having little effect on CRM-reliant innovation. The response strengthens over time and is especially pronounced for battery minerals and rare earth elements. These findings are robust to alternative specifications and are reinforced by complementary identification strategies, including a falsification test and the use of plausibly exogenous supply-side price variation.
+</details>
+
+<br />
+
+<br />
+
+### <ins> Selected work in progress </ins>
+
+<br />
+
+**Returns to Green Tasks in Europe: Evidence from Online Job Vacancies**, *with* <a href="https://leannecass.com/" target="_blank">*Leanne Cass*</a>, <a href="https://aureliensaussay.github.io/" target="_blank">*Aurélien Saussay*</a>, <a href="https://personal.lse.ac.uk/satom/" target="_blank">*Misato Sato*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>
+
+*Status: writing first draft*
+
+<br />
+
+**Skills and job mobility in the green transition: Evidence from Italy**, *with* *Martino Kuntze*, *Irene Brunetti*, *Andrea Ricci* *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>
+
+*Status: writing first draft*
+
+<br />
+
+**Organized Crime, Institutions, and School performance: Evidence from Anti-Mafia Dissolutions**
+
+*Status: restructuring*

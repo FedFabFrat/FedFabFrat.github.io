@@ -1,0 +1,59 @@
+/*-- scss:uses --*/
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap');
+
+/*-- scss:defaults --*/
+
+// Navy primary colour for light (flatly) theme
+$primary:    #024345;
+$link-color: #024345;
+$font-family-base: 'Crimson Pro', serif;
+
+/*-- scss:rules --*/
+
+// Desktop / mobile responsive toggle
+#content-desktop { display: block; }
+#content-mobile  { display: none; }
+
+@media screen and (max-width: 768px) {
+  #content-desktop { display: none; }
+  #content-mobile  { display: block; }
+}
+
+// Social icons in page body
+.social-links {
+  margin-top: 1.5rem;
+  a {
+    font-size: 1.5rem;
+    margin: 0 0.6rem;
+    color: $primary;
+    &:hover { opacity: 0.7; }
+  }
+}
+
+// Show moon beside toggle in light mode (click to go dark)
+.quarto-color-scheme-toggle::before {
+  content: "\f496";
+  font-family: "bootstrap-icons";
+  margin-right: 0.35rem;
+  font-size: 1.4rem;
+  vertical-align: middle;
+}
+
+.quarto-color-scheme-toggle .bi {
+  font-size: 1.4rem;
+}
+
+// Navbar
+.navbar {
+  background-color: $primary !important;
+}
+
+// Navbar link colours
+.navbar-nav .nav-link,
+.navbar-brand {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #ffffff !important;
+}

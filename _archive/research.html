@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>research.knit</title>
+
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="research.html">
+    <span class="fa fa-newspaper"></span>
+     
+    Research
+  </a>
+</li>
+<li>
+  <a href="teaching.html">
+    <span class="fa fa-university"></span>
+     
+    Teaching
+  </a>
+</li>
+<li>
+  <a href="other.html">
+    <span class="fa fa-door-open"></span>
+     
+    Other
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:federico.frattini@feem.it">
+    <span class="fa fa-envelope-o fa"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/FedFabFrat">
+    <span class="fa fa-github fa"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/FedFabFrat">
+    <span class="fa fa-twitter fa"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/federico-fabio-frattini/">
+    <span class="fa fa-linkedin fa"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<script>
+document.title = "Research"
+</script>
+<div id="research" class="section level1" align="center">
+<h1>Research</h1>
+<div>
+<hr />
+<div align="justify">
+<div id="peer-reviewed-publications" class="section level3">
+<h3><ins> Peer Reviewed Publications </ins></h3>
+<p><br /></p>
+<p><strong>Concurrent Elections, Candidate Entry, and Local
+Competition</strong></p>
+<p>(Updated draft coming soon)</p>
+<p>Status: Conditionally accepted at <strong><em>Public
+Choice</em></strong></p>
+<details close>
+<summary>
+<em>Abstract</em>
+</summary>
+This paper investigates how the institutional timing of elections shapes
+local candidate entry and political competition. Exploiting quasi-random
+variation in Italy’s staggered national–local concurrent elections, this
+paper employs a difference-in-differences design. Estimates reveal that
+concurrency reduces the number of mayoral candidates and discourages
+participation by independent lists, increasing the relative presence of
+nationally established parties. These changes in candidate composition
+are associated with higher vote shares and higher probabilities of
+victory of about ten percentage points for nationally affiliated
+candidates, alongside a reduction in overall political competition.
+Concurrent elections also affect who holds office: mayors elected in
+such contests are more likely to have lower education and less prior
+experience. At the same time, while these mayors do not alter overall
+spending or revenue trajectories, they secure greater intergovernmental
+transfers, collect taxes more efficiently and increase spending in
+specific categories.
+</details>
+<p><br /></p>
+<p><strong>Eroding Civic Capital: How Persistent Organised Crime
+Diminishes Tax Compliance</strong>, <em>with</em>
+<a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank"><em>Francesca
+Maria Calamunci</em></a></p>
+<p><strong><em>The Journal of Law, Economics &amp; Organization
+(2026)</em></strong></p>
+<p>(<a href="https://doi.org/10.1093/jleo/ewaf022" target="_blank">
+https://doi.org/10.1093/jleo/ewaf022 </a>)
+(<a href="Calamunci_Frattini_JLEO.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted
+version</a>)</p>
+<details close>
+<summary>
+<em>Abstract</em>
+</summary>
+What is the long-term effect of organised crime presence on civic
+capital? By leveraging novel tax compliance and organised crime data,
+this study investigates this question within the Italian landscape from
+the 1950s to the 2000s. We exploit the forced resettlement law that
+compelled organised crime members living in the South of Italy to
+resettle in the Centre-North area of the country. Employing a
+difference-in-differences estimation strategy, estimates reveal that
+sustained exposure to mafia presence reduces TV tax compliance.
+Exploring possible mechanisms, we find that municipalities exposed to
+the forced resettlement law show more firms in strategic sectors for
+organised crime infiltration, and more episodes of extortion and labour
+racketeering.
+</details>
+<p><br /></p>
+<p><strong>The Civic Side of Tax Compliance: Evidence from
+Italy</strong>, <em>with</em>
+<a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank"><em>Francesca
+Maria Calamunci</em></a></p>
+<p><strong><em>Economics letters (2025)</em></strong></p>
+<p>(<a href="https://doi.org/10.1016/j.econlet.2025.112346" target="_blank">
+https://doi.org/10.1016/j.econlet.2025.112346 </a>)
+(<a href="Calamunci_Frattini_EconLett.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted
+version</a>)</p>
+<details close>
+<summary>
+<em>Abstract</em>
+</summary>
+This study validates TV fee compliance as a proxy for civic capital in
+Italy. Using municipality-level data, we show that it strongly
+correlates with traditional social capital measures such as voluntary
+associations, referenda, and European elections turnout. The analysis
+confirms its reliability both at municipal and provincial levels. TV fee
+compliance provides a scalable, objective, and timely indicator,
+particularly useful for researchers to examine the socio-economic
+dynamics of civic capital and its implications for institutional
+performance and economic development.
+</details>
+<p><br /></p>
+<p><strong>Setting an example: political leaders’ cues and health
+behavior in the early stages of the COVID-19 pandemic in
+Mexico</strong>, <em>with</em>
+<a href="https://sites.google.com/view/brunomorando/home" target="_blank"><em>Bruno
+Morando</em></a> <em>and</em>
+<a href="https://www.udlap.mx/ofertaacademica/profesores.aspx?cveCarrera=LEC&profesor=0024068&extracto=1" target="_blank"><em>Luciano
+Ayala Cantu</em></a></p>
+<p><strong><em>Latin American Policy (2021)</em></strong></p>
+<p>(<a href="https://onlinelibrary.wiley.com/doi/10.1111/lamp.12223" target="_blank">
+https://doi.org/10.1111/lamp.12223 </a>)</p>
+<details close>
+<summary>
+<em>Abstract</em>
+</summary>
+How do political leaders’ cues affect citizen behavior regarding a new
+and complex issue? We address this question in the context of the early
+stages of the Covid‐19 pandemic in Mexico, using electoral outcomes and
+municipal‐level mobility data from Facebook’s Movement Range Maps. In
+March 2020, Mexico’s president downplayed constantly the severity of the
+coming health crisis by continuing his political rallies throughout the
+country and encouraging people to leave their homes. Using an
+event‐study analysis, we find that, after the first press conference
+where his government declared mobility restrictions were not yet
+necessary, on March 13, citizens’ geographic mobility in pro‐government
+municipalities was higher than in cities where support for the president
+was less strong. Our results are robust to several specifications and
+definitions of political support. Moreover, we find evidence that our
+results are driven by cities with higher media penetration, which
+implies that they can be attributed to people’s reactions to the
+president’s cues rather than to systematic differences in the
+preferences of his supporters.
+</details>
+<p><br /></p>
+<p><br /></p>
+</div>
+<div id="working-papers" class="section level3">
+<h3><ins> Working Papers </ins></h3>
+<p><br /></p>
+<p><strong>Does Green Re-industrialization Pay off? Impacts on
+Employment, Wages and Productivity</strong>, <em>with</em>
+<a href="https://sites.google.com/view/fbontadini/home" target="_blank"><em>Filippo
+Bontadini</em></a> <em>and</em>
+<a href="https://sites.google.com/view/francescovona/home" target="_blank"><em>Francesco
+Vona</em></a></p>
+<p>(<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2024-23-1.pdf" target="_blank">Most
+recent draft</a>)</p>
+<p><em>Status: submitted</em></p>
+<details close>
+<summary>
+<em>Abstract</em>
+</summary>
+What are the consequences of green industrialization on the labour
+market and industry dynamics? This paper tackles and quantifies this
+question by employing observable and reliable data on green
+manufacturing production for an extensive set of EU countries and
+4-digit manufacturing industries for over a decade. First, at a
+descriptive level, this paper documents that green production is mostly
+concentrated in a few countries and industries. Moreover, potentially
+green industries outperform the others in terms of employment, average
+wages, value added and productivity. Second, when controlling for other
+drivers of the labour market and industry dynamics in the econometric
+analysis, it finds that employment and value added grow faster in
+potentially green sectors, particularly at the intensive margin. In
+contrast, average wages and labour productivity remain unchanged. Then,
+to purge the analysis from possible endogeneity, this paper employs two
+shift-share instruments. These econometric exercises corroborate the
+previous findings. An increase in 1 million€ of sold green production is
+associated with an increase of 0.03% in employment and value added,
+respectively. The analysis is extended with different heterogeneity
+exercises and robustness checks.
+</details>
+<p><br /></p>
+<p><strong>The Local Job Multipliers of Green
+Industrialization</strong>, <em>with</em>
+<a href="https://sites.google.com/view/fbontadini/home" target="_blank"><em>Filippo
+Bontadini</em></a>,
+<a href="https://sites.google.com/view/italocolantone/home?authuser=0" target="_blank"><em>Italo
+Colantone</em></a> <em>and</em>
+<a href="https://sites.google.com/view/francescovona/home" target="_blank"><em>Francesco
+Vona</em></a></p>
+<p>(<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2025-13-1.pdf" target="_blank">Most
+recent draft</a>)
+(<a href="https://www.ifo.de/DocDL/cesifo1_wp11939.pdf" target="_blank">CESifo
+working paper</a>)</p>
+<p><em>Status: to submit</em></p>
+<details close>
+<summary>
+<em>Abstract</em>
+</summary>
+What are the job multipliers of the green industrialization? We tackle
+this question within EU regions over the period 2003-2017, building a
+novel measure of green manufacturing penetration that combines green
+production and regional employment data. We estimate local job
+multipliers of green penetration in a long-difference model, using a
+shift-share instrument that exploits plausibly exogenous changes in
+non-EU green innovation. We find that a 3-years change in green
+penetration per worker increases the employment-to-active population
+ratio by 0.11 pp. The effect is: persistent both in manufacturing and
+outside manufacturing; halved by agglomeration effects that increase the
+labour market tightness; stronger for workers with high and
+low-education; and present also in regions specialized in polluting
+industries. When focusing on large shocks in a staggered DiD design, we
+find ten times larger effects, particularly in earlier periods.
+</details>
+<p><br /></p>
+<p><strong>Vaccines on the Move and the War on Polio</strong>,
+<em>with</em>
+<a href="https://sites.google.com/view/lauramunozblanco/home?authuser=0" target="_blank"><em>Laura
+Muñoz Blanco</em></a></p>
+<p>(<a href="https://exetereconomics.github.io/RePEc/dpapers/DP2403.pdf" target="_blank">Most
+recent draft</a>)</p>
+<p><em>Status: submitted</em></p>
+<details close>
+<summary>
+<em>Abstract</em>
+</summary>
+The rising number of refugees and internally displaced people (IDPs)
+presents new challenges for vaccine distribution and the spread of
+diseases. How do forcibly displaced population inflows affect infectious
+diseases incidence in host communities? Can a policy intervention that
+vaccinates children during their migration mitigate the impacts? To
+answer these questions, we examine the Pakistani mass internal
+displacement from the conflict-affected Federally Administered Tribal
+Areas in 2008. Using a difference-in-differences approach, we compare
+new polio cases in districts near and far from the conflict zone before
+and after 2008. The spatial distribution of districts relative to the
+historical region of Pashtunistan allows us to design a sample of
+comparable units. We show that a standard deviation increase in
+predicted IDP inflow leads to a rise in the new polio cases per 100,000
+inhabitants. Poorer vaccination levels among IDP compared to native
+children in host communities are one of the main mechanisms.
+Implementing a vaccination policy targeting IDP children during their
+migration journey helps bridge the vaccination gap, with important
+welfare implications.
+</details>
+<p><br /></p>
+<p><strong>Identity Rhetoric and Tax Evasion</strong>, <em>with</em>
+<a href="https://sites.google.com/view/francesco-barilari/home" target="_blank"><em>Francesco
+Barilari</em></a>,
+<a href="https://sites.google.com/view/francescacalamunci/home" target="_blank"><em>Francesca
+Maria Calamunci</em></a> <em>and</em>
+<a href="https://sites.google.com/view/diegozambiasi/home" target="_blank"><em>Diego
+Zambiasi</em></a></p>
+<p>(<a href="https://download.ssrn.com/2025/8/12/5388466.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQC1udi0eVv8EX2xh21YKVIWRdCoBpoLVNw46HAmv62xmwIhAN8F3ShvBKugMZjv9Ze6sTHHT6SDnMDUh%2BlfOoG5HYhJKr0FCBQQBBoMMzA4NDc1MzAxMjU3Igx4jc6PZ0lv1bdBKFMqmgUVXc2F4nqcGSuUAZ8wlHXIyarjE47Scf8z4YXOAl1%2F00uIlp4dkoHWJH1OPhSD68EMMprXEkfiDf5CLIbSMAjG6iAJRgneKaz0uZFgfwkD0YLtewFK6XcGhzQwUQBE1hV%2FYhrpvYVTadUA0%2F7BvBCNzlQhCeIMGuRMuHKashhrLIsp36KtT27wNR%2FEc5g3NIfbvDNg6%2FfsptFG5Uz0A%2F0vcF8t6%2BN5Cja5RWNdp75P%2BvniKtL7ML5sd5BZtC56LNxngjReVZYbp7%2FfaH8%2FDd%2FMVU0DmeiHvrr5Nu2yAAMLh034y%2FdkOSCfGRpyehdtXMvzebg1nUj8UgqJbTPxpM7ykKVXpu8VJcL0CVN9K2od%2BeGPnylK2tcnZrH4OGETOYcxo7eg77hCaeXfDHnhYW0tz%2BCwPjKuSJh%2BdGNG48w19trlAV7x%2FbD70T5yDWDBdZvSkjHY%2FDwHVrRwTNQmq3MTiaupms6luuGi8FKCAy9Twwjm1fPYgJtNgFiGlMEeJ%2F%2BXsf%2ByFogvNZyNf%2F0F54GUwukeSbLatknGjC8bw8gOZDtXMNukMncQYxQIq0QPXaw6BcIHvjitVPw6HgOVIoFzQvWXARVUPEKhYEd7%2FTk3FpZ6WHxehRDLWyJsEvzThopmaQ8AHy%2FpujIMEeQBfYa3Fsog%2FKV88kcHA7Sl8wcFOYQgp052nmQvNgCtNU1t%2BGYnuwvLblPtWsiPFRHnls3TOzRzI6yyt8TtbwErmIaAOcdjSq7xbbaqBNemzjKyTr%2Fx%2BkPJB1EJCE4qPiiMvJWbxC0%2F7ewg4kF4iX%2FvNdloxlXnC3F1nPygP8wFWMnbo9FFHgBy9qDlhGgybd7HzSRORCpGpN5CfA5qdvbNP1jmG1Vao19TKPLfYC0wnL3sxAY6sAHhhDM83DuIB5uQ9sEpNx8mbcmczqsxWigQ4stHT%2BDf0QNUiX694HN0YfwU4pP%2BDlrYTL77V9yZfn1Uc0F%2F5tO0BC3dR15GNDSfHeYLuwdC5EnOARfztB5QAWNfoE8yx9Swx0FvpCeTyog8leoi1Dex3dHvNniKudUaGK6uDVvulSZwUr5AzJULcGz40axVNTH9MmTtHT814rOiEz4C0OFQWqUFizLZW285XJryZ1b3IA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250812T114650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWEROFSUCHZ%2F20250812%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c04bbb49c6fd2755bed7affd2a0b50ce90886e2e63e26eecee6351ea5fd4e918&abstractId=5388466" target="_blank">Most
+recent draft</a>)</p>
+<p><em>Status: submitted</em></p>
+<details close>
+<summary>
+<em>Abstract</em>
+</summary>
+This paper studies how identity-based political rhetoric can erode tax
+compliance. We focus on Italy’s Northern League (NL), a regionalist
+party that framed national taxes as an illegitimate imposition by a
+distant and exploitative central government. Exploiting the staggered
+local entry of NL into municipal elections between 1990 and 2015, we
+implement a difference-indifferences design to estimate the causal
+effect of exposure to NL’s rhetoric on tax compliance. We find that NL
+participation leads to a significant decline in payment of the national
+TV license fee, a symbolically charged and centrally collected tax. The
+effect is absent for local taxes and unrelated parties like Forza
+Italia, and is not driven by NL’s control of local government. The
+decline is amplified in municipalities with higher initial support for
+NL, greater exposure to its television channel, and more intense local
+campaign activity. The effect is also stronger in economically
+vulnerable communities. Taken together, the evidence points to a
+rhetorical mechanism: repeated exposure to a narrative that casts
+national taxation as cultural exploitation weakens compliance with
+central fiscal obligations.
+</details>
+<p><br /></p>
+<p><strong>Induced Innovation in Critical Mineral Saving
+Technologies</strong>, <em>with</em>
+<a href="https://sites.google.com/view/andrea-bastianin/home?authuser=0" target="_blank"><em>Andrea
+Bastianin</em></a>,
+<a href="https://sites.google.com/view/paolo-castelnovo" target="_blank"><em>Paolo
+Castelnovo</em></a>, <em>and</em>
+<a href="https://sites.google.com/view/francescovona/home" target="_blank"><em>Francesco
+Vona</em></a></p>
+<p>(<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2026-05.pdf" target="_blank">Most
+recent draft</a>)</p>
+<p><em>Status: to submit</em></p>
+<details close>
+<summary>
+<em>Abstract</em>
+</summary>
+This paper develops a novel text-based approach to identify CRM-saving
+innovation using patent data and studies how mineral price signals shape
+the direction of technological change. Using patent data from 1978–2020,
+we distinguish technologies that rely on CRMs from those that explicitly
+aim to reduce their use through efficiency improvements, substitution,
+or recycling. We provide evidence consistent with the induced-innovation
+hypothesis: higher mineral prices reallocate inventive effort toward
+CRM-saving technologies, while having little effect on CRM-reliant
+innovation. The response strengthens over time and is especially
+pronounced for battery minerals and rare earth elements. These findings
+are robust to alternative specifications and are reinforced by
+complementary identification strategies, including a falsification test
+and the use of plausibly exogenous supply-side price variation.
+</details>
+<p><br /></p>
+<p><br /></p>
+</div>
+<div id="selected-work-in-progress" class="section level3">
+<h3><ins> Selected work in progress </ins></h3>
+<p><br /></p>
+<p><strong>Returns to Green Tasks in Europe: Evidence from Online Job
+Vacancies</strong>, <em>with</em>
+<a href="https://leannecass.com/" target="_blank"><em>Leanne
+Cass</em></a>,
+<a href="https://aureliensaussay.github.io/" target="_blank"><em>Aurélien
+Saussay</em></a>,
+<a href="https://personal.lse.ac.uk/satom/" target="_blank"><em>Misato
+Sato</em></a> <em>and</em>
+<a href="https://sites.google.com/view/francescovona/home" target="_blank"><em>Francesco
+Vona</em></a></p>
+<p><em>Status: writing first draft</em></p>
+<p><br /></p>
+<p><strong>Skills and job mobility in the green transition: Evidence
+from Italy</strong>, <em>with</em> <em>Martino Kuntze</em>, <em>Irene
+Brunetti</em>, <em>Andrea Ricci</em> <em>and</em>
+<a href="https://sites.google.com/view/francescovona/home" target="_blank"><em>Francesco
+Vona</em></a></p>
+<p><em>Status: writing first draft</em></p>
+<p><br /></p>
+<p><strong>Organized Crime, Institutions, and School performance:
+Evidence from Anti-Mafia Dissolutions</strong></p>
+<p><em>Status: restructuring</em></p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

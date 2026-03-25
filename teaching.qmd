@@ -1,0 +1,39 @@
+---
+pagetitle: "Teaching"
+---
+
+<div align="center">
+# Teaching
+<div>
+
+
+****
+
+<div align="justify">
+
+#### Lecturer
+**<a href="https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2024/advanced-microeconomics" target="_blank">*Advanced microeconomics*</a>**, *UniMi (MSc), Fall 2023, 2024, 2025. Average evaluation: 9.2/10*
+
+<br />
+
+#### Teaching Assistant
+
+**<a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/microeconomics-1/" target="_blank">*Introduction to Microeconomics*</a>**, *TCD (MSc), Fall 2021. Lecturer: Prof. Alejandra Ramos. Average evaluation: 5/5.*
+
+**<a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/political-economy/" target="_blank">*Topics in Political Economy*</a>**, *TCD (MSc), Fall 2019, 2020. Lecturer: Prof. Nicola Mastrorocco. Average evaluation: 4.75/5.*
+
+**<a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/topics-in-development-economics/" target="_blank">*Topics in Development Economics*</a>**, *TCD (MSc), Spring 2020. Lecturer: Prof. Gaia Narciso.*
+
+**<a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/emergence-of-macroeconomic-policy/" target="_blank">*Emergence of Macroeconomic Policy*</a>**, *TCD (MSc), Spring 2020. Lecturer: Prof. Marvin Suesse. Average evaluation: 4.3/5.*
+
+**<a href="https://www.tcd.ie/Economics/postgraduate/msc-economics/structure/long-run-development/" target="_blank">*Long-Run Development*</a>**, *TCD (MSc), Fall 2019. Lecturer: Prof. Marvin Suesse. Average evaluation: 5/5.*
+
+**<a href="https://www.tcd.ie/Economics/undergraduate/jf/intro-economics_a/index.php" target="_blank">*Introduction to Economic Policy A*</a>**, *TCD (BSc), Fall 2018. Lecturer: Diarmaid Smyth. Average evaluation: 4.11/5.*
+
+**<a href="https://www.tcd.ie/Economics/undergraduate/jf/intro-economics_b/index.php" target="_blank">*Introduction to Economic Policy B*</a>**, *TCD (BSc), Spring 2019. Lecturer: Prof. Joseph Kopecky.*
+
+<br />
+
+#### Guest Lecturer
+
+**<a href="https://www.maynoothuniversity.ie/faculty-social-sciences/news/big-data-and-machine-learning-workshop-dr-bruno-morando-department-economics" target="_blank">*Big Data and Machine Learning Workshop*</a>**, *Maynooth University (MSc, PhD), Spring 2022. Lecturer: Dr. Bruno Morando*

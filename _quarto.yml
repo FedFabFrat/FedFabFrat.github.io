@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: "."
+  render:
+    - "*.qmd"
+
+website:
+  title: "Federico Fabio Frattini"
+  search: false
+  navbar:
+    background: primary
+    foreground: light
+    left:
+      - text: "Home"
+        icon: house
+        href: index.qmd
+      - text: "Research"
+        icon: newspaper
+        href: research.qmd
+      - text: "Teaching"
+        icon: bank
+        href: teaching.qmd
+      - text: "Other"
+        icon: door-open
+        href: other.qmd
+
+  page-footer:
+    center: "© 2026 Federico Fabio Frattini"
+
+format:
+  html:
+    theme:
+      light: [flatly, styles-light.scss]
+      dark:  [darkly, styles-dark.scss]
+    toc: false
+    grid:
+      body-width: 1080px
