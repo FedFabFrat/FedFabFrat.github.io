@@ -15,7 +15,7 @@ library(fontawesome)
 
 <div align="justify">
 
-### `r fa("music")` A few songs I am into recently
+#### `r fa("music")` A few songs I am into recently
 
 * *Ti odio e ti amo (come Milano)*, (*<a href="https://open.spotify.com/intl-it/track/1O7mY0f08VEsAjH9Zgx5pR?si=fe53a569baeb43da" target="_blank">**listen!**</a>*)
 
