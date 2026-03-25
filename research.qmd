@@ -2,12 +2,7 @@
 pagetitle: "Research"
 ---
 
-<div align="center">
 # Research
-<div>
-
-
-****
 
 <div align="justify">
 

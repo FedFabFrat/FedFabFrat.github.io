@@ -2,12 +2,7 @@
 pagetitle: "Teaching"
 ---
 
-<div align="center">
 # Teaching
-<div>
-
-
-****
 
 <div align="justify">
 

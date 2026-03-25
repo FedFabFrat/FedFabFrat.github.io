@@ -6,12 +6,7 @@ pagetitle: "Other"
 library(fontawesome)
 ```
 
-<div align="center">
 # Music
-<div>
-
-
-****
 
 <div align="justify">
 
