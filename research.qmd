@@ -11,7 +11,7 @@ pagetitle: "Research"
 
 <div align="justify">
 
-### <ins> Peer Reviewed Publications </ins>
+### Peer Reviewed Publications
 
 <br />
 
@@ -47,7 +47,7 @@ transfers, collect taxes more efficiently and increase spending in specific cate
 
 **The Civic Side of Tax Compliance: Evidence from Italy**, *with* <a href="https://sites.google.com/view/francescacalamunci/home?authuser=0" target="_blank">*Francesca Maria Calamunci*</a>
 
-***Economics letters (2025)***
+***Economics Letters (2025)***
 
 (<a href="https://doi.org/10.1016/j.econlet.2025.112346" target="_blank"> https://doi.org/10.1016/j.econlet.2025.112346 </a>) (<a href="Calamunci_Frattini_EconLett.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted version</a>)
 
@@ -78,7 +78,7 @@ implications for institutional performance and economic development.
 <br />
 
 
-### <ins> Working Papers </ins>
+### Working Papers
 
 <br />
 
@@ -150,7 +150,7 @@ implications for institutional performance and economic development.
 
 <br />
 
-### <ins> Selected work in progress </ins>
+### Selected Work in Progress
 
 <br />
 

@@ -5,10 +5,21 @@
 
 // Navy primary colour for light (flatly) theme
 $primary:    #024345;
-$link-color: #024345;
+$link-color: #0a7a7c;
 $font-family-base: 'Crimson Pro', serif;
 
 /*-- scss:rules --*/
+
+// Slightly larger base font size for Crimson Pro readability
+body { font-size: 18px; }
+
+// Styled horizontal rule
+hr {
+  border: none;
+  border-top: 2px solid $primary;
+  opacity: 0.4;
+  margin: 1.2rem 0;
+}
 
 // Desktop / mobile responsive toggle
 #content-desktop { display: block; }
@@ -41,6 +52,13 @@ $font-family-base: 'Crimson Pro', serif;
 
 .quarto-color-scheme-toggle .bi {
   font-size: 1.4rem;
+}
+
+// Research section headers
+#quarto-document-content h3 {
+  border-bottom: 1px solid $primary;
+  padding-bottom: 0.25rem;
+  opacity: 0.85;
 }
 
 // Navbar

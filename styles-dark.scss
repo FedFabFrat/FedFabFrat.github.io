@@ -9,6 +9,17 @@ $body-bg: #091413;
 
 /*-- scss:rules --*/
 
+// Slightly larger base font size for Crimson Pro readability
+body { font-size: 18px; }
+
+// Styled horizontal rule
+hr {
+  border: none;
+  border-top: 2px solid #b0e4cc;
+  opacity: 0.4;
+  margin: 1.2rem 0;
+}
+
 // Desktop / mobile responsive toggle
 #content-desktop { display: block; }
 #content-mobile  { display: none; }
@@ -40,6 +51,13 @@ $body-bg: #091413;
 
 .quarto-color-scheme-toggle .bi {
   font-size: 1.4rem;
+}
+
+// Research section headers
+#quarto-document-content h3 {
+  border-bottom: 1px solid #b0e4cc;
+  padding-bottom: 0.25rem;
+  opacity: 0.85;
 }
 
 // Navbar

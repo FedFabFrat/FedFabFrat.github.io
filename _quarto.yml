@@ -25,7 +25,7 @@ website:
         href: other.qmd
 
   page-footer:
-    center: "© 2026 Federico Fabio Frattini"
+    center: "© 2026 Federico Fabio Frattini · Last updated: March 2026"
 
 format:
   html:
