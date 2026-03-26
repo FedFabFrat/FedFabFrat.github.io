@@ -9,7 +9,7 @@ pagetitle: "Teaching"
 #### Lecturer
 **<a href="https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2024/advanced-microeconomics" target="_blank">*Advanced microeconomics*</a>**, *UniMi (MSc), Fall 2023, 2024, 2025. Average evaluation: 9.2/10*
 
-<br />
+<div style="margin-bottom: 2em;"></div>
 
 #### Teaching Assistant
 
@@ -27,7 +27,7 @@ pagetitle: "Teaching"
 
 **<a href="https://www.tcd.ie/Economics/undergraduate/jf/intro-economics_b/index.php" target="_blank">*Introduction to Economic Policy B*</a>**, *TCD (BSc), Spring 2019. Lecturer: Prof. Joseph Kopecky.*
 
-<br />
+<div style="margin-bottom: 2em;"></div>
 
 #### Guest Lecturer
 
