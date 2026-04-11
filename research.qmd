@@ -12,9 +12,9 @@ pagetitle: "Research"
 
 **Concurrent Elections, Candidate Entry, and Local Competition**
 
-Status: Conditionally accepted at ***Public Choice***
+***Public Choice (forthcoming)***
 
-(Updated draft coming soon)
+(<a href="http://dx.doi.org/10.1007/s11127-026-01402-9" target="_blank"> http://dx.doi.org/10.1007/s11127-026-01402-9 </a>) (<a href="Frattini_PC_2026.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted version</a>)
 
 <details close>
 <summary>*Abstract*</summary> This paper investigates how the institutional timing of elections shapes local candidate entry and political competition. Exploiting quasi-random variation in Italy's staggered national–local concurrent elections, this paper employs a difference-in-differences design. Estimates reveal that concurrency reduces the number of mayoral candidates and discourages participation by independent
@@ -30,7 +30,7 @@ transfers, collect taxes more efficiently and increase spending in specific cate
 
 ***The Journal of Law, Economics & Organization (2026)***
 
-(<a href="https://doi.org/10.1093/jleo/ewaf022" target="_blank"> https://doi.org/10.1093/jleo/ewaf022 </a>) (<a href="Calamunci_Frattini_JLEO.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted version</a>)
+(<a href="https://doi.org/10.1093/jleo/ewaf022" target="_blank"> https://doi.org/10.1093/jleo/ewaf022 </a>) (<a href="Calamunci_Frattini_JLEO_2026.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted version</a>)
 
 <details close>
 <summary>*Abstract*</summary> What is the long-term effect of organised crime presence on civic capital? By leveraging novel tax compliance and organised crime data, this study investigates this question within the Italian landscape from the 1950s to the 2000s. We exploit the forced resettlement law that compelled organised crime members living in the South of Italy to resettle in the Centre-North area of the country. Employing a difference-in-differences estimation strategy, estimates reveal that sustained exposure to mafia presence reduces TV tax compliance. Exploring possible mechanisms, we find that municipalities exposed to the forced resettlement law show more firms in strategic sectors for organised crime infiltration, and more episodes of extortion and labour racketeering.
@@ -42,7 +42,7 @@ transfers, collect taxes more efficiently and increase spending in specific cate
 
 ***Economics Letters (2025)***
 
-(<a href="https://doi.org/10.1016/j.econlet.2025.112346" target="_blank"> https://doi.org/10.1016/j.econlet.2025.112346 </a>) (<a href="Calamunci_Frattini_EconLett.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted version</a>)
+(<a href="https://doi.org/10.1016/j.econlet.2025.112346" target="_blank"> https://doi.org/10.1016/j.econlet.2025.112346 </a>) (<a href="Calamunci_Frattini_EconLett_2025.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted version</a>)
 
 <details close>
 <summary>*Abstract*</summary> This study validates TV fee compliance as a proxy for civic capital in Italy. Using municipality-level
