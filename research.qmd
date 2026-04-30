@@ -12,9 +12,9 @@ pagetitle: "Research"
 
 **Concurrent Elections, Candidate Entry, and Local Competition**
 
-***Public Choice (forthcoming)***
+***Public Choice (2026)***
 
-(<a href="http://dx.doi.org/10.1007/s11127-026-01402-9" target="_blank"> http://dx.doi.org/10.1007/s11127-026-01402-9 </a>) (<a href="Frattini_PC_2026.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted version</a>)
+(<a href="http://dx.doi.org/10.1007/s11127-026-01402-9" target="_blank"> http://dx.doi.org/10.1007/s11127-026-01402-9 </a>) (<a href="Frattini_PC_2026.pdf#" class="download" target="_blank" title="_CF_CA_JLEO">Accepted version</a>) (<a href="https://github.com/FedFabFrat/Replication-Files-of-Concurrent-elections-candidate-entry-and-local-competition-" target="_blank">replication package</a>)
 
 <details close>
 <summary>*Abstract*</summary> This paper investigates how the institutional timing of elections shapes local candidate entry and political competition. Exploiting quasi-random variation in Italy's staggered national–local concurrent elections, this paper employs a difference-in-differences design. Estimates reveal that concurrency reduces the number of mayoral candidates and discourages participation by independent
