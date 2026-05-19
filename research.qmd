@@ -131,13 +131,19 @@ implications for institutional performance and economic development.
 
 <div style="margin-bottom: 2em;"></div>
 
-### Selected Work in Progress
+**Returns to Green Tasks in Europe: Evidence from Online Job Vacancies**, *with* <a href="https://leannecass.com/" target="_blank">*Leanne Cass*</a>, <a href="https://aureliensaussay.github.io/" target="_blank">*Aurélien Saussay*</a>, <a href="https://personal.lse.ac.uk/satom/" target="_blank">*Misato Sato*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>
+
+(<a href="https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2026/05/GRI-working-paper-449-Cass-et-al-final.pdf" target="_blank">Most recent draft</a>)
+
+*Status: submitted*
+
+<details close>
+<summary>*Abstract*</summary> There is growing evidence that green jobs have higher skill requirements, but whether they offer sufficient wage incentives to encourage workers to acquire those skills remains unclear. We study the green wage premium and its drivers to isolate the average return to green tasks using online job vacancy (OJV) data for EU countries over the period 2018-2023. We develop a transparent LLM-based approach to classify job  vacancies as green when they list at least one green task. Green jobs pay a premium of $5.5\%$ relative to comparable postings within the same occupation, and this estimate is little changed when controlling for nonmonetary job attributes making these jobs more attractive. Roughly half of this premium is explained by firm fixed effects, consistent with an important role for firm rents. An Oaxaca-Blinder decomposition shows that the higher skill complexity explains a further one tenth of the premium, leaving a residual return to green tasks of around 2\%. The green wage premium is higher outside the manufacturing sector, and for low-carbon roles.
+</details>
 
 <div style="margin-bottom: 2em;"></div>
 
-**Returns to Green Tasks in Europe: Evidence from Online Job Vacancies**, *with* <a href="https://leannecass.com/" target="_blank">*Leanne Cass*</a>, <a href="https://aureliensaussay.github.io/" target="_blank">*Aurélien Saussay*</a>, <a href="https://personal.lse.ac.uk/satom/" target="_blank">*Misato Sato*</a> *and* <a href="https://sites.google.com/view/francescovona/home" target="_blank">*Francesco Vona*</a>
-
-*Status: writing first draft*
+### Selected Work in Progress
 
 <div style="margin-bottom: 2em;"></div>
 
