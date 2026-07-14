@@ -123,7 +123,7 @@ implications for institutional performance and economic development.
 
 (<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2026-05.pdf" target="_blank">Most recent draft</a>)
 
-*Status: to submit*
+*Status: submitted*
 
 <details close>
 <summary>*Abstract*</summary> This paper develops a novel text-based approach to identify CRM-saving innovation using patent data and studies how mineral price signals shape the direction of technological change. Using patent data from 1978–2020, we distinguish technologies that rely on CRMs from those that explicitly aim to reduce their use through efficiency improvements, substitution, or recycling. We provide evidence consistent with the induced-innovation hypothesis: higher mineral prices reallocate inventive effort toward CRM-saving technologies, while having little effect on CRM-reliant innovation. The response strengthens over time and is especially pronounced for battery minerals and rare earth elements. These findings are robust to alternative specifications and are reinforced by complementary identification strategies, including a falsification test and the use of plausibly exogenous supply-side price variation.
