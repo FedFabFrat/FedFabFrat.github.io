@@ -75,3 +75,40 @@ hr {
 .navbar-nav .nav-link:focus {
   color: #ffffff !important;
 }
+
+// ---- Research page: paper entries ----
+.paper {
+  padding: 1.6rem 0;
+
+  // Hairline between consecutive entries only. The <h3> section headers
+  // break adjacency, so no rule is drawn at the top or bottom of a
+  // section — the heading's own underline already does that.
+  & + & {
+    border-top: 1px solid rgba($primary, 0.18);
+  }
+
+  // Title (first paragraph of the block)
+  > p:first-of-type {
+    font-size: 1.25rem;
+    line-height: 1.3;
+    margin-bottom: 0.3rem;
+    text-align: left;   // don't justify a wrapped title
+    strong { font-weight: 600; }
+  }
+
+  // Co-authors, venue, links, status: one step down from the title
+  > p:not(:first-of-type) {
+    font-size: 0.95rem;
+    margin-bottom: 0.35rem;
+  }
+
+  summary { font-size: 0.95rem; }
+
+  // Abstract set off with a left rule when expanded
+  details[open] {
+    font-size: 0.95rem;
+    padding-left: 0.85rem;
+    border-left: 2px solid rgba($primary, 0.25);
+    margin-top: 0.5rem;
+  }
+}
