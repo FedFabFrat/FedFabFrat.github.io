@@ -53,6 +53,10 @@ This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Downloa
 
 </div>
 
+</div> <!-- closes float:right column -->
+
+</div> <!-- closes #content-desktop -->
+
 
 <div id=content-mobile>
 
