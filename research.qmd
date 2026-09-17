@@ -121,7 +121,7 @@ implications for institutional performance and economic development.
 
 (<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2025-13-1.pdf" target="_blank">Most recent draft</a>) (<a href="https://www.ifo.de/DocDL/cesifo1_wp11939.pdf" target="_blank">CESifo working paper</a>)
 
-*Status: to submit*
+*Status: substantial re-write*
 
 <details close>
 <summary>*Abstract*</summary> What are the job multipliers of the green industrialization? We tackle this question within EU regions over the period 2003-2017, building a novel measure of green manufacturing penetration that combines green production and regional employment data. We estimate local job multipliers of green penetration in a long-difference model, using a shift-share instrument that exploits plausibly exogenous changes in non-EU green innovation. We find that a 3-years change in green penetration per worker increases the employment-to-active population ratio by 0.11 pp. The effect is: persistent both in manufacturing and outside manufacturing; halved by agglomeration effects that increase the labour market tightness; stronger for workers with high and low-education; and present also in regions specialized in polluting industries. When focusing on large shocks in a staggered DiD design, we find ten times larger effects, particularly in earlier periods.
@@ -169,5 +169,5 @@ implications for institutional performance and economic development.
 ::: {.paper}
 **Organized Crime, Institutions, and School performance: Evidence from Anti-Mafia Dissolutions**
 
-*Status: restructuring*
+*Status: completing analysis*
 :::
