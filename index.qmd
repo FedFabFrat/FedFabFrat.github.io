@@ -12,7 +12,7 @@ pagetitle: "Home"
 
 <div style="float:left; width:60%;" align="justify">
 
-I am a Researcher at <a href="https://www.feem.it/ricerca/programmi/labour-in-the-low-carbon-transition/" target="_blank">FEEM</a> and an Adjunct Professor at the DESP department at the <a href="https://www.unimi.it/it/ugov/person/federico-frattini" target="_blank">University of Milan</a>. I obtained a PhD in Economics at the <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a>.
+I am a Post-doc Researcher at <a href="https://www.feem.it/ricerca/programmi/labour-in-the-low-carbon-transition/" target="_blank">FEEM</a> and an Adjunct Professor at the DESP department at the <a href="https://www.unimi.it/it/ugov/person/federico-frattini" target="_blank">University of Milan</a>. I obtained a PhD in Economics at the <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a>.
 
 Applied economist working on:
 
@@ -60,7 +60,7 @@ This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Downloa
 
 <div id=content-mobile>
 
-I am a Researcher at <a href="https://www.feem.it/ricerca/programmi/labour-in-the-low-carbon-transition/" target="_blank">FEEM</a> and an Adjunct Professor at the DESP department at the <a href="https://www.unimi.it/it/ugov/person/federico-frattini" target="_blank">University of Milan</a>. I obtained a PhD in Economics at the <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a>.
+I am a Post-doc Researcher at <a href="https://www.feem.it/ricerca/programmi/labour-in-the-low-carbon-transition/" target="_blank">FEEM</a> and an Adjunct Professor at the DESP department at the <a href="https://www.unimi.it/it/ugov/person/federico-frattini" target="_blank">University of Milan</a>. I obtained a PhD in Economics at the <a href="https://www.tcd.ie/Economics/" target="_blank">Trinity College Dublin</a>.
 
 Applied economist working on:
 

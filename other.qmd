@@ -10,15 +10,17 @@ library(fontawesome)
 
 <div align="justify">
 
-#### `r fa("music")` A few songs I am into recently
+New Dermot Kennedy's album, *The Weight of the Woods*, is out! (*<a href="https://open.spotify.com/intl-it/album/75pxFt8fBxAZaSII4Ur6Dd" target="_blank">**listen!**</a>*). A few of my favourite hits of his:
 
-* *Ti odio e ti amo (come Milano)*, (*<a href="https://open.spotify.com/intl-it/track/1O7mY0f08VEsAjH9Zgx5pR?si=fe53a569baeb43da" target="_blank">**listen!**</a>*)
+* *Funeral*, (*<a href="https://open.spotify.com/intl-it/track/1Lc8oMoGNeXrfsipcrm4dw?si=53f5382ca4864fa1" target="_blank">**listen!**</a>*) (*<a href="https://www.youtube.com/watch?v=RyR1xAw9edU" target="_blank">**Acoustic live**</a>*)
+
+* *Turnstile*, (*<a href="https://open.spotify.com/intl-it/track/7dgixFvHh3Ew6D3hiAnEgY?si=2abc50c0e64a41be" target="_blank">**listen!**</a>*)
 
 * *An Evening I Will Not Forget*, (*<a href="https://open.spotify.com/intl-it/track/1yLSv3RVh0BzTnaGlTapsP?si=21bda830b7144223" target="_blank">**listen!**</a>*)
 
-* *Live Forever*, (*<a href="https://open.spotify.com/intl-it/track/6TlQ5fbojNRuG0hPQMbxeW?si=adcf713813bc4be1" target="_blank">**listen!**</a>*)
+* *Something to someone*, (*<a href="https://open.spotify.com/intl-it/track/4AQXIIhoKpkn7gMMS4StAY?si=6d9e3738f7154fd3" target="_blank">**listen!**</a>*) (*<a href="https://www.youtube.com/watch?v=qk8pqYTQIAE" target="_blank">**Beautiful live in Malahide castle**</a>*)
 
-* New Dermot Kennedy's album, *The Weight of the Woods*, is out! (*<a href="https://open.spotify.com/intl-it/album/75pxFt8fBxAZaSII4Ur6Dd" target="_blank">**listen!**</a>*) 
+* *Carrickfergus (cover)*, (*<a href="https://www.youtube.com/watch?v=tFAeqs03fdk" target="_blank">**listen!**</a>*)
 
 Check my Spotify (to be updated) *<a href="https://open.spotify.com/playlist/6qYpvSPGedMFXl6rZiqxiK?si=ced1e59686d54d84" target="_blank">**playlist!**</a>*
 
