@@ -79,7 +79,7 @@ implications for institutional performance and economic development.
 
 (<a href="https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2024-23-1.pdf" target="_blank">Most recent draft</a>)
 
-*Status: Revised and Resubmitted at Environmental and Resource Economics*
+*Status: Accepted at Environmental and Resource Economics*
 
 <details close>
 <summary> *Abstract* </summary> What are the consequences of green re-industrialization—that is, the expansion of manufacturing activities producing green goods—on labour market outcomes and industry dynamics? This paper quantifies these effects using new data on green manufacturing production for EU countries and 4-digit manufacturing industries over 2003–2017. We measure green production by aggregating granular PRODCOM product codes into industry-level indicators and link them to labour market and performance outcomes from Structural Business Statistics. To identify the causal effect of expanding green production on employment, wages, value added and labour productivity, we use a shift–share instrumental-variable strategy that exploits plausibly exogenous changes in green innovation outside Europe. We find that a €10 million increase in sold green production implies increases of 0.24% in employment and 0.25% in value added. We do not find effects on wages or labour productivity and estimates are similar in long-difference specifications. Accounting for input–output linkages within manufacturing roughly doubles the employment response, halving the implied cost per job, with gains concentrated along green value chains.
