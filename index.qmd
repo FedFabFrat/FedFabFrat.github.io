@@ -16,9 +16,9 @@ I am a Post-doc Researcher at <a href="https://www.feem.it/ricerca/programmi/lab
 
 Applied economist working on:
 
-- Organised crime and human/civic capital
-- Political competition, participation and identity-based rhetoric
-- Green transition, labour markets, and regional development
+- Political institutions, electoral rules and the functioning of local government
+- Organised crime, civic capital and tax compliance
+- Labour-market and distributional effects of the green transition
 
 This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Download CV as PDF">CV</a>, while this is a detailed outline of my current <a href="https://fedfabfrat.github.io/research.html">research projects</a>, and this is a list of the <a href="https://fedfabfrat.github.io/teaching.html">courses</a> I taught.
 
@@ -64,9 +64,9 @@ I am a Post-doc Researcher at <a href="https://www.feem.it/ricerca/programmi/lab
 
 Applied economist working on:
 
-- Organised crime and human/civic capital
-- Political competition, participation and identity-based rhetoric
-- Green transition, labour markets, and regional development
+- Political institutions, electoral rules and the functioning of local government
+- Organised crime, civic capital and tax compliance
+- Labour-market and distributional effects of the green transition
 
 This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Download CV as PDF">CV</a>, while this is a detailed outline of my current <a href="https://fedfabfrat.github.io/research.html">research projects</a>, and this is a list of the <a href="https://fedfabfrat.github.io/teaching.html">courses</a> I taught.
 
