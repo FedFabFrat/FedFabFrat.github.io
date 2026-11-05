@@ -34,7 +34,7 @@ This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Downloa
 
 <div style="float:right; width:40%; margin-left:20px; margin-right:-105px;">
 
-![](IMG_4145.jpg){width=70%}
+![](Federico_2.jpg){width=100%}
 
 <br />
 
@@ -81,7 +81,7 @@ This is my <a href="cv_fff.pdf#" class="download" target="_blank" title="Downloa
 
 <div align="center">
 
-![](IMG_4145.jpg){width=70%}
+![](Federico_2.jpg){width=100%}
 
 <br />
 
